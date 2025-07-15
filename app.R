@@ -2,17 +2,31 @@
 library(shiny)
 library(bslib)
 library(tidyverse)
+library(shinyWidgets)
 
 root = "B:/50 - OVG/OVG7/analyses/results/MoMo"
 data = read.csv2(paste0(root, "/OVG7_ModalSplit.csv"))
 
 motieven = distinct(data, motief11) %>% pull()
 hoofdmodus = distinct(data, hfdvm2) %>% pull()
+meettype = distinct(data, MeetType) %>% pull()
+DagType = distinct(data, DagType) %>% pull()
+
+graph_data = data %>% 
+  filter(DagType == "alle dagen" & MeetType == "in aantal verplaatsingen per dag") %>% 
+  mutate(totaal = sum(waarde_modal_split)) %>% 
+  group_by(hfdvm2) %>% 
+  summarise(percentage = round(sum(waarde_modal_split) / mean(totaal) * 100, digits = 1)) %>% 
+  arrange(desc(percentage)) %>%
+  mutate(hfdvm2 = factor(hfdvm2, levels = rev(hfdvm2))) 
+
 
 # Define UI for app that draws a histogram ----
 ui <- page_sidebar(
+  
   # App title ----
   title = "Modale split",
+  
   # Sidebar panel for inputs ----
   sidebar = sidebar(
     title = "Filters",
@@ -25,11 +39,46 @@ ui <- page_sidebar(
       max = 50,
       value = 30
     ),
-    selectInput(inputId = "motiefSelect", 
-                label = "Motieven", 
-                choices = motieven, 
-                selected = c("werken"), multiple = F, selectize = TRUE)
+    
+    radioButtons(
+      inputId = "indicatorSelect", 
+      label = "Selecteer indicator",
+      choices = meettype, 
+      selected = "in aantal verplaatsingen per dag"
+      
+    ),
+    
+    selectInput(
+      inputId = "motiefSelect", 
+      label = "Motieven", 
+      choices = motieven, 
+      selected = c("werken"), multiple = F, selectize = TRUE
+    ),
+
+  
+    selectInput(
+      inputId = "dagtypeSelect", 
+      label = "Type dag", 
+      choices = DagType, 
+      selected = c("alle dagen"), multiple = F, selectize = TRUE
+    ),
+    
+    virtualSelectInput(
+      inputId = "hoofdmodusSelect",
+      label = "Hoofdmodus",
+      choices = list(
+        "Duurzaam" = c("trein", "te voet", "elektrische fiets", "niet-elektrische fiets", "tram", "bus"),
+        "Niet-duurzaam" = c("autobestuurder", "autopassagier -18", "brom-/snorfiets of motor")
+      ),
+      selected = c("trein", "te voet", "elektrische fiets", "niet-elektrische fiets", "tram", "bus",
+                   "autobestuurder", "autopassagier -18", "brom-/snorfiets of motor"),
+      showValueAsTags = F,
+      search = F,
+      multiple = TRUE
+    )
+    
   ),
+  
   # Output: Histogram ----
   card(
     card_header("Enkele statistieken"),
@@ -42,9 +91,9 @@ ui <- page_sidebar(
   ),
   navset_card_tab(
     nav_panel("Motief",
-              plotOutput(outputId = "distPlot")),
+              plotOutput(outputId = "modaleSplit")),
     nav_panel("Afstand",
-              "Hier komt een andere grafiek")
+              plotOutput(outputId = "distPlot"))
   ),
   
 )
@@ -52,14 +101,26 @@ ui <- page_sidebar(
 # Define server logic required to draw a histogram
 server <- function(input, output) {
   
-  # Histogram of the Old Faithful Geyser Data ----
-  # with requested number of bins
-  # This expression that generates a histogram is wrapped in a call
-  # to renderPlot to indicate that:
-  #
-  # 1. It is "reactive" and therefore should be automatically
-  #    re-executed when inputs (input$bins) change
-  # 2. Its output type is a plot
+  output$modaleSplit = renderPlot({
+    
+    
+    graph_data = data %>% 
+      filter(DagType == input$dagtypeSelect & MeetType == input$indicatorSelect) %>% 
+      mutate(totaal = sum(waarde_modal_split)) %>% 
+      group_by(hfdvm2) %>% 
+      summarise(percentage = round(sum(waarde_modal_split) / mean(totaal) * 100, digits = 1)) %>% 
+      filter(hfdvm2 %in% input$hoofdmodusSelect) %>% 
+      arrange(desc(percentage)) %>%
+      mutate(hfdvm2 = factor(hfdvm2, levels = rev(hfdvm2))) 
+    
+    ggplot(graph_data, aes(x = percentage, y = hfdvm2)) +
+      geom_segment(aes(x = 0, xend = percentage, y = hfdvm2, yend = hfdvm2), color = "grey70") +
+      geom_point(color = "steelblue", size = 4) +
+      labs(x = "Percentage", y = "Hoofdmodus") +
+      theme_minimal()
+    
+  })
+
   output$distPlot <- renderPlot({
     
     x    <- faithful$waiting
@@ -72,7 +133,11 @@ server <- function(input, output) {
   })
   
   output$aantalVerplaatsingen = renderText({
-    as.character(data %>%  summarise(n = n()) %>%  pull())
+    graph_data = data %>% 
+      filter(DagType == input$dagtypeSelect & MeetType == input$indicatorSelect) %>% 
+      filter(hfdvm2 %in% input$hoofdmodusSelect)
+    
+    as.character(graph_data %>%  summarise(verplaatsingen = sum(verplaatsingen)) %>%  pull())
   })
   
 }
