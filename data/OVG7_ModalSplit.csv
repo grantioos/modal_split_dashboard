@@ -1,0 +1,889 @@
+OVG;motief11;hfdvm2;waarde_modal_split;verplaatsingen;MeetType;DagType
+71;diensten (bv. dokter, bank);anders;0,00158417378066641;19;in aantal verplaatsingen per dag;alle dagen
+71;diensten (bv. dokter, bank);autobestuurder;0,0741350653311188;1630;in aantal verplaatsingen per dag;alle dagen
+71;diensten (bv. dokter, bank);autopassagier +18;0,0189518111179137;364;in aantal verplaatsingen per dag;alle dagen
+71;diensten (bv. dokter, bank);autopassagier -18;0,00805313248122822;178;in aantal verplaatsingen per dag;alle dagen
+71;diensten (bv. dokter, bank);brom-/snorfiets of motor;0,000705808532355979;11;in aantal verplaatsingen per dag;alle dagen
+71;diensten (bv. dokter, bank);elektrische fiets;0,0107715032408372;245;in aantal verplaatsingen per dag;alle dagen
+71;diensten (bv. dokter, bank);elektrische step/monowheel/hoverboard;0,000149957099084831;4;in aantal verplaatsingen per dag;alle dagen
+71;diensten (bv. dokter, bank);lijnbus;0,00263236777645282;54;in aantal verplaatsingen per dag;alle dagen
+71;diensten (bv. dokter, bank);metro;5,57262202446531e-05;2;in aantal verplaatsingen per dag;alle dagen
+71;diensten (bv. dokter, bank);niet-elektrische fiets;0,0118358930495058;252;in aantal verplaatsingen per dag;alle dagen
+71;diensten (bv. dokter, bank);speed pedelec;0,000766523351638832;12;in aantal verplaatsingen per dag;alle dagen
+71;diensten (bv. dokter, bank);taxi of vergelijkbaar;8,59459927009363e-05;2;in aantal verplaatsingen per dag;alle dagen
+71;diensten (bv. dokter, bank);te voet;0,017304981752133;371;in aantal verplaatsingen per dag;alle dagen
+71;diensten (bv. dokter, bank);tram;0,000813048805581204;12;in aantal verplaatsingen per dag;alle dagen
+71;diensten (bv. dokter, bank);trein;0,000536668484039388;19;in aantal verplaatsingen per dag;alle dagen
+71;geen antwoord;autobestuurder;0,000885071628944697;20;in aantal verplaatsingen per dag;alle dagen
+71;geen antwoord;autopassagier +18;0,000283700369391713;8;in aantal verplaatsingen per dag;alle dagen
+71;geen antwoord;elektrische fiets;0,000251628639399189;3;in aantal verplaatsingen per dag;alle dagen
+71;geen antwoord;elektrische step/monowheel/hoverboard;5,67578191953027e-05;1;in aantal verplaatsingen per dag;alle dagen
+71;geen antwoord;lijnbus;3,01476121604272e-05;1;in aantal verplaatsingen per dag;alle dagen
+71;geen antwoord;niet-elektrische fiets;8,87959966372072e-05;3;in aantal verplaatsingen per dag;alle dagen
+71;geen antwoord;te voet;0,000701164019934325;15;in aantal verplaatsingen per dag;alle dagen
+71;geen antwoord;trein;1,55526971165238e-05;1;in aantal verplaatsingen per dag;alle dagen
+71;iemand bezoeken;anders;0,000938905598047007;18;in aantal verplaatsingen per dag;alle dagen
+71;iemand bezoeken;autobestuurder;0,156624367977977;3098;in aantal verplaatsingen per dag;alle dagen
+71;iemand bezoeken;autopassagier +18;0,0467039507268163;941;in aantal verplaatsingen per dag;alle dagen
+71;iemand bezoeken;autopassagier -18;0,0276037947372122;624;in aantal verplaatsingen per dag;alle dagen
+71;iemand bezoeken;brom-/snorfiets of motor;0,00137920774745342;23;in aantal verplaatsingen per dag;alle dagen
+71;iemand bezoeken;elektrische fiets;0,0236617082733408;476;in aantal verplaatsingen per dag;alle dagen
+71;iemand bezoeken;elektrische step/monowheel/hoverboard;0,00047653884941125;6;in aantal verplaatsingen per dag;alle dagen
+71;iemand bezoeken;lijnbus;0,00403134604094329;77;in aantal verplaatsingen per dag;alle dagen
+71;iemand bezoeken;metro;0,000131546848697764;3;in aantal verplaatsingen per dag;alle dagen
+71;iemand bezoeken;niet-elektrische fiets;0,0303168367475412;649;in aantal verplaatsingen per dag;alle dagen
+71;iemand bezoeken;speed pedelec;0,0007956501558117;14;in aantal verplaatsingen per dag;alle dagen
+71;iemand bezoeken;taxi of vergelijkbaar;8,96798325694874e-05;4;in aantal verplaatsingen per dag;alle dagen
+71;iemand bezoeken;te voet;0,0364430239069606;792;in aantal verplaatsingen per dag;alle dagen
+71;iemand bezoeken;tram;0,00310217894866705;42;in aantal verplaatsingen per dag;alle dagen
+71;iemand bezoeken;trein;0,00380970125906942;93;in aantal verplaatsingen per dag;alle dagen
+71;iets anders;anders;0,00138327519071317;23;in aantal verplaatsingen per dag;alle dagen
+71;iets anders;autobestuurder;0,0549160755920285;1092;in aantal verplaatsingen per dag;alle dagen
+71;iets anders;autopassagier +18;0,0179454259225598;373;in aantal verplaatsingen per dag;alle dagen
+71;iets anders;autopassagier -18;0,00815055263552225;197;in aantal verplaatsingen per dag;alle dagen
+71;iets anders;brom-/snorfiets of motor;8,84494675859311e-05;2;in aantal verplaatsingen per dag;alle dagen
+71;iets anders;elektrische fiets;0,00808090975131255;160;in aantal verplaatsingen per dag;alle dagen
+71;iets anders;elektrische step/monowheel/hoverboard;0,000203268519168627;3;in aantal verplaatsingen per dag;alle dagen
+71;iets anders;lijnbus;0,00578059348391804;116;in aantal verplaatsingen per dag;alle dagen
+71;iets anders;metro;0,000130298610526193;2;in aantal verplaatsingen per dag;alle dagen
+71;iets anders;niet-elektrische fiets;0,0125511533019603;257;in aantal verplaatsingen per dag;alle dagen
+71;iets anders;speed pedelec;0,00111323334969704;19;in aantal verplaatsingen per dag;alle dagen
+71;iets anders;taxi of vergelijkbaar;0,000137883075594754;4;in aantal verplaatsingen per dag;alle dagen
+71;iets anders;te voet;0,0246296556757277;520;in aantal verplaatsingen per dag;alle dagen
+71;iets anders;tram;0,00106634119368449;23;in aantal verplaatsingen per dag;alle dagen
+71;iets anders;trein;0,00782239125298033;166;in aantal verplaatsingen per dag;alle dagen
+71;iets/iemand wegbrengen/afhalen;anders;0,0011334912297209;21;in aantal verplaatsingen per dag;alle dagen
+71;iets/iemand wegbrengen/afhalen;autobestuurder;0,280932774018462;5596;in aantal verplaatsingen per dag;alle dagen
+71;iets/iemand wegbrengen/afhalen;autopassagier +18;0,0250509153832559;540;in aantal verplaatsingen per dag;alle dagen
+71;iets/iemand wegbrengen/afhalen;autopassagier -18;0,0119890230227337;296;in aantal verplaatsingen per dag;alle dagen
+71;iets/iemand wegbrengen/afhalen;brom-/snorfiets of motor;0,00165401507338712;18;in aantal verplaatsingen per dag;alle dagen
+71;iets/iemand wegbrengen/afhalen;elektrische fiets;0,0243617436626102;533;in aantal verplaatsingen per dag;alle dagen
+71;iets/iemand wegbrengen/afhalen;elektrische step/monowheel/hoverboard;0,00011239974821363;2;in aantal verplaatsingen per dag;alle dagen
+71;iets/iemand wegbrengen/afhalen;lijnbus;0,00244980561710152;43;in aantal verplaatsingen per dag;alle dagen
+71;iets/iemand wegbrengen/afhalen;niet-elektrische fiets;0,0237648396649241;479;in aantal verplaatsingen per dag;alle dagen
+71;iets/iemand wegbrengen/afhalen;speed pedelec;0,000530673234091891;17;in aantal verplaatsingen per dag;alle dagen
+71;iets/iemand wegbrengen/afhalen;taxi of vergelijkbaar;0,000124350732775842;3;in aantal verplaatsingen per dag;alle dagen
+71;iets/iemand wegbrengen/afhalen;te voet;0,0394705851947777;806;in aantal verplaatsingen per dag;alle dagen
+71;iets/iemand wegbrengen/afhalen;tram;0,000914864590746827;9;in aantal verplaatsingen per dag;alle dagen
+71;iets/iemand wegbrengen/afhalen;trein;0,00108627631225839;25;in aantal verplaatsingen per dag;alle dagen
+71;onderwijs volgen;anders;0,0022711170272181;52;in aantal verplaatsingen per dag;alle dagen
+71;onderwijs volgen;autobestuurder;0,0120977740368654;257;in aantal verplaatsingen per dag;alle dagen
+71;onderwijs volgen;autopassagier +18;0,00499000912031261;84;in aantal verplaatsingen per dag;alle dagen
+71;onderwijs volgen;autopassagier -18;0,0442318215895625;1098;in aantal verplaatsingen per dag;alle dagen
+71;onderwijs volgen;brom-/snorfiets of motor;0,00137696909449752;35;in aantal verplaatsingen per dag;alle dagen
+71;onderwijs volgen;elektrische fiets;0,00972425218568162;215;in aantal verplaatsingen per dag;alle dagen
+71;onderwijs volgen;elektrische step/monowheel/hoverboard;0,00059545643106084;11;in aantal verplaatsingen per dag;alle dagen
+71;onderwijs volgen;lijnbus;0,0256887805231599;566;in aantal verplaatsingen per dag;alle dagen
+71;onderwijs volgen;metro;0,000663594603490586;10;in aantal verplaatsingen per dag;alle dagen
+71;onderwijs volgen;niet-elektrische fiets;0,0716986439805254;1640;in aantal verplaatsingen per dag;alle dagen
+71;onderwijs volgen;speed pedelec;0,000579518116645012;12;in aantal verplaatsingen per dag;alle dagen
+71;onderwijs volgen;taxi of vergelijkbaar;0,000107676345238453;2;in aantal verplaatsingen per dag;alle dagen
+71;onderwijs volgen;te voet;0,0360116187459526;815;in aantal verplaatsingen per dag;alle dagen
+71;onderwijs volgen;tram;0,00423877322939121;66;in aantal verplaatsingen per dag;alle dagen
+71;onderwijs volgen;trein;0,0122184406487296;279;in aantal verplaatsingen per dag;alle dagen
+71;ontspanning, sport, cultuur;anders;0,00304949704585004;63;in aantal verplaatsingen per dag;alle dagen
+71;ontspanning, sport, cultuur;autobestuurder;0,164988146846035;3333;in aantal verplaatsingen per dag;alle dagen
+71;ontspanning, sport, cultuur;autopassagier +18;0,0696457072789554;1345;in aantal verplaatsingen per dag;alle dagen
+71;ontspanning, sport, cultuur;autopassagier -18;0,0693210430945231;1589;in aantal verplaatsingen per dag;alle dagen
+71;ontspanning, sport, cultuur;brom-/snorfiets of motor;0,00161595208614705;31;in aantal verplaatsingen per dag;alle dagen
+71;ontspanning, sport, cultuur;elektrische fiets;0,0315360666491012;660;in aantal verplaatsingen per dag;alle dagen
+71;ontspanning, sport, cultuur;elektrische step/monowheel/hoverboard;0,000643702316476654;15;in aantal verplaatsingen per dag;alle dagen
+71;ontspanning, sport, cultuur;lijnbus;0,00812191329613676;171;in aantal verplaatsingen per dag;alle dagen
+71;ontspanning, sport, cultuur;metro;0,000269998404311277;10;in aantal verplaatsingen per dag;alle dagen
+71;ontspanning, sport, cultuur;niet-elektrische fiets;0,0707237117299396;1459;in aantal verplaatsingen per dag;alle dagen
+71;ontspanning, sport, cultuur;speed pedelec;0,00172271828906744;37;in aantal verplaatsingen per dag;alle dagen
+71;ontspanning, sport, cultuur;taxi of vergelijkbaar;0,00152169168851905;20;in aantal verplaatsingen per dag;alle dagen
+71;ontspanning, sport, cultuur;te voet;0,0736801098713033;1594;in aantal verplaatsingen per dag;alle dagen
+71;ontspanning, sport, cultuur;tram;0,006217196617034;94;in aantal verplaatsingen per dag;alle dagen
+71;ontspanning, sport, cultuur;trein;0,0086219522729804;176;in aantal verplaatsingen per dag;alle dagen
+71;wandelen, rondrijden, joggen;anders;0,00118549113534384;26;in aantal verplaatsingen per dag;alle dagen
+71;wandelen, rondrijden, joggen;autobestuurder;0,0217109472257025;478;in aantal verplaatsingen per dag;alle dagen
+71;wandelen, rondrijden, joggen;autopassagier +18;0,0102345577591376;193;in aantal verplaatsingen per dag;alle dagen
+71;wandelen, rondrijden, joggen;autopassagier -18;0,0027156384136545;66;in aantal verplaatsingen per dag;alle dagen
+71;wandelen, rondrijden, joggen;brom-/snorfiets of motor;0,000262206290552968;4;in aantal verplaatsingen per dag;alle dagen
+71;wandelen, rondrijden, joggen;elektrische fiets;0,00737563957779399;165;in aantal verplaatsingen per dag;alle dagen
+71;wandelen, rondrijden, joggen;elektrische step/monowheel/hoverboard;5,96155585205134e-05;1;in aantal verplaatsingen per dag;alle dagen
+71;wandelen, rondrijden, joggen;lijnbus;0,000855030831734707;15;in aantal verplaatsingen per dag;alle dagen
+71;wandelen, rondrijden, joggen;metro;0,000340870867548154;5;in aantal verplaatsingen per dag;alle dagen
+71;wandelen, rondrijden, joggen;niet-elektrische fiets;0,0134897618701671;279;in aantal verplaatsingen per dag;alle dagen
+71;wandelen, rondrijden, joggen;speed pedelec;0,000550361102935602;6;in aantal verplaatsingen per dag;alle dagen
+71;wandelen, rondrijden, joggen;te voet;0,10695107103574;2280;in aantal verplaatsingen per dag;alle dagen
+71;wandelen, rondrijden, joggen;tram;0,00103414792181894;18;in aantal verplaatsingen per dag;alle dagen
+71;wandelen, rondrijden, joggen;trein;0,000671915945702665;15;in aantal verplaatsingen per dag;alle dagen
+71;werken;anders;0,0072641953502374;77;in aantal verplaatsingen per dag;alle dagen
+71;werken;autobestuurder;0,35562122425721;6582;in aantal verplaatsingen per dag;alle dagen
+71;werken;autopassagier +18;0,016017502489766;277;in aantal verplaatsingen per dag;alle dagen
+71;werken;autopassagier -18;0,00123278509312766;24;in aantal verplaatsingen per dag;alle dagen
+71;werken;brom-/snorfiets of motor;0,00536557490770398;65;in aantal verplaatsingen per dag;alle dagen
+71;werken;elektrische fiets;0,0606467145203702;1210;in aantal verplaatsingen per dag;alle dagen
+71;werken;elektrische step/monowheel/hoverboard;0,00343101140200005;41;in aantal verplaatsingen per dag;alle dagen
+71;werken;lijnbus;0,0116023244842207;144;in aantal verplaatsingen per dag;alle dagen
+71;werken;metro;0,000700232775673747;14;in aantal verplaatsingen per dag;alle dagen
+71;werken;niet-elektrische fiets;0,0576158266768391;1060;in aantal verplaatsingen per dag;alle dagen
+71;werken;speed pedelec;0,0105886129237237;198;in aantal verplaatsingen per dag;alle dagen
+71;werken;taxi of vergelijkbaar;0,00031421420846652;4;in aantal verplaatsingen per dag;alle dagen
+71;werken;te voet;0,0259979852344544;533;in aantal verplaatsingen per dag;alle dagen
+71;werken;tram;0,00230556761902275;31;in aantal verplaatsingen per dag;alle dagen
+71;werken;trein;0,0253435338105431;594;in aantal verplaatsingen per dag;alle dagen
+71;winkelen, boodschappen doen;anders;0,00310935756595019;43;in aantal verplaatsingen per dag;alle dagen
+71;winkelen, boodschappen doen;autobestuurder;0,321055780217732;6450;in aantal verplaatsingen per dag;alle dagen
+71;winkelen, boodschappen doen;autopassagier +18;0,0625768748888;1181;in aantal verplaatsingen per dag;alle dagen
+71;winkelen, boodschappen doen;autopassagier -18;0,0227687149001626;544;in aantal verplaatsingen per dag;alle dagen
+71;winkelen, boodschappen doen;brom-/snorfiets of motor;0,00106147733765634;19;in aantal verplaatsingen per dag;alle dagen
+71;winkelen, boodschappen doen;elektrische fiets;0,0484256343829026;1040;in aantal verplaatsingen per dag;alle dagen
+71;winkelen, boodschappen doen;elektrische step/monowheel/hoverboard;0,000535287832567203;9;in aantal verplaatsingen per dag;alle dagen
+71;winkelen, boodschappen doen;lijnbus;0,00889775973796193;150;in aantal verplaatsingen per dag;alle dagen
+71;winkelen, boodschappen doen;metro;0,000286264336183135;5;in aantal verplaatsingen per dag;alle dagen
+71;winkelen, boodschappen doen;niet-elektrische fiets;0,0521012612446595;1090;in aantal verplaatsingen per dag;alle dagen
+71;winkelen, boodschappen doen;speed pedelec;0,00264277626627683;48;in aantal verplaatsingen per dag;alle dagen
+71;winkelen, boodschappen doen;taxi of vergelijkbaar;0,000369083975208527;4;in aantal verplaatsingen per dag;alle dagen
+71;winkelen, boodschappen doen;te voet;0,110811510638535;2273;in aantal verplaatsingen per dag;alle dagen
+71;winkelen, boodschappen doen;tram;0,00406843486322892;54;in aantal verplaatsingen per dag;alle dagen
+71;winkelen, boodschappen doen;trein;0,00324397426963615;74;in aantal verplaatsingen per dag;alle dagen
+71;zakelijke verplaatsing;anders;0,00490967052277598;72;in aantal verplaatsingen per dag;alle dagen
+71;zakelijke verplaatsing;autobestuurder;0,050316288129585;1120;in aantal verplaatsingen per dag;alle dagen
+71;zakelijke verplaatsing;autopassagier +18;0,0054445888451661;120;in aantal verplaatsingen per dag;alle dagen
+71;zakelijke verplaatsing;autopassagier -18;0,000566764434570442;10;in aantal verplaatsingen per dag;alle dagen
+71;zakelijke verplaatsing;brom-/snorfiets of motor;0,000341184705537989;5;in aantal verplaatsingen per dag;alle dagen
+71;zakelijke verplaatsing;elektrische fiets;0,00793400529253891;154;in aantal verplaatsingen per dag;alle dagen
+71;zakelijke verplaatsing;elektrische step/monowheel/hoverboard;0,000155920427263332;4;in aantal verplaatsingen per dag;alle dagen
+71;zakelijke verplaatsing;lijnbus;0,00046326551083492;9;in aantal verplaatsingen per dag;alle dagen
+71;zakelijke verplaatsing;metro;0,00014021032644418;4;in aantal verplaatsingen per dag;alle dagen
+71;zakelijke verplaatsing;niet-elektrische fiets;0,00572444304745399;109;in aantal verplaatsingen per dag;alle dagen
+71;zakelijke verplaatsing;speed pedelec;0,00254709030854265;18;in aantal verplaatsingen per dag;alle dagen
+71;zakelijke verplaatsing;taxi of vergelijkbaar;0,000143766467856214;2;in aantal verplaatsingen per dag;alle dagen
+71;zakelijke verplaatsing;te voet;0,00368216938341177;95;in aantal verplaatsingen per dag;alle dagen
+71;zakelijke verplaatsing;tram;0,000403069910742298;9;in aantal verplaatsingen per dag;alle dagen
+71;zakelijke verplaatsing;trein;0,00158857420810417;44;in aantal verplaatsingen per dag;alle dagen
+71;diensten (bv. dokter, bank);anders;0,00372384708996528;19;in aantal km per dag;alle dagen
+71;diensten (bv. dokter, bank);autobestuurder;0,651653608653988;1630;in aantal km per dag;alle dagen
+71;diensten (bv. dokter, bank);autopassagier +18;0,204945613265791;364;in aantal km per dag;alle dagen
+71;diensten (bv. dokter, bank);autopassagier -18;0,0618676323626114;178;in aantal km per dag;alle dagen
+71;diensten (bv. dokter, bank);brom-/snorfiets of motor;0,0054205924747438;11;in aantal km per dag;alle dagen
+71;diensten (bv. dokter, bank);elektrische fiets;0,0343121479391015;245;in aantal km per dag;alle dagen
+71;diensten (bv. dokter, bank);elektrische step/monowheel/hoverboard;0,00053655944602836;4;in aantal km per dag;alle dagen
+71;diensten (bv. dokter, bank);lijnbus;0,0205819909938498;54;in aantal km per dag;alle dagen
+71;diensten (bv. dokter, bank);metro;0,000236506686054294;2;in aantal km per dag;alle dagen
+71;diensten (bv. dokter, bank);niet-elektrische fiets;0,0278602875363295;252;in aantal km per dag;alle dagen
+71;diensten (bv. dokter, bank);speed pedelec;0,00556831875470783;12;in aantal km per dag;alle dagen
+71;diensten (bv. dokter, bank);taxi of vergelijkbaar;0,00311977142849793;2;in aantal km per dag;alle dagen
+71;diensten (bv. dokter, bank);te voet;0,0103946064788036;371;in aantal km per dag;alle dagen
+71;diensten (bv. dokter, bank);tram;0,00450524608311415;12;in aantal km per dag;alle dagen
+71;diensten (bv. dokter, bank);trein;0,0173946794259807;19;in aantal km per dag;alle dagen
+71;geen antwoord;autobestuurder;0,017373675787192;20;in aantal km per dag;alle dagen
+71;geen antwoord;autopassagier +18;0,00245394564911114;8;in aantal km per dag;alle dagen
+71;geen antwoord;elektrische fiets;0,000942450955159577;3;in aantal km per dag;alle dagen
+71;geen antwoord;elektrische step/monowheel/hoverboard;4,3446185725938e-05;1;in aantal km per dag;alle dagen
+71;geen antwoord;lijnbus;0,000364373284602836;1;in aantal km per dag;alle dagen
+71;geen antwoord;niet-elektrische fiets;0,000776736724369432;3;in aantal km per dag;alle dagen
+71;geen antwoord;te voet;0,000992723277956665;15;in aantal km per dag;alle dagen
+71;geen antwoord;trein;0,00015037973296524;1;in aantal km per dag;alle dagen
+71;iemand bezoeken;anders;0,00611927059099218;18;in aantal km per dag;alle dagen
+71;iemand bezoeken;autobestuurder;1,94147306637458;3098;in aantal km per dag;alle dagen
+71;iemand bezoeken;autopassagier +18;0,680609342125725;941;in aantal km per dag;alle dagen
+71;iemand bezoeken;autopassagier -18;0,29346251782768;624;in aantal km per dag;alle dagen
+71;iemand bezoeken;brom-/snorfiets of motor;0,0134760986297294;23;in aantal km per dag;alle dagen
+71;iemand bezoeken;elektrische fiets;0,0958834505504574;476;in aantal km per dag;alle dagen
+71;iemand bezoeken;elektrische step/monowheel/hoverboard;0,00115773612909608;6;in aantal km per dag;alle dagen
+71;iemand bezoeken;lijnbus;0,0472909022241034;77;in aantal km per dag;alle dagen
+71;iemand bezoeken;metro;0,000328303918028193;3;in aantal km per dag;alle dagen
+71;iemand bezoeken;niet-elektrische fiets;0,0804117832124195;649;in aantal km per dag;alle dagen
+71;iemand bezoeken;speed pedelec;0,00306123238050362;14;in aantal km per dag;alle dagen
+71;iemand bezoeken;taxi of vergelijkbaar;0,00058782814901075;4;in aantal km per dag;alle dagen
+71;iemand bezoeken;te voet;0,0234116675390933;792;in aantal km per dag;alle dagen
+71;iemand bezoeken;tram;0,0182364076907871;42;in aantal km per dag;alle dagen
+71;iemand bezoeken;trein;0,189067370940586;93;in aantal km per dag;alle dagen
+71;iets anders;anders;0,0444611211152382;23;in aantal km per dag;alle dagen
+71;iets anders;autobestuurder;0,947393589347856;1092;in aantal km per dag;alle dagen
+71;iets anders;autopassagier +18;0,419415912902178;373;in aantal km per dag;alle dagen
+71;iets anders;autopassagier -18;0,111953623189527;197;in aantal km per dag;alle dagen
+71;iets anders;brom-/snorfiets of motor;0,000351086781779395;2;in aantal km per dag;alle dagen
+71;iets anders;elektrische fiets;0,0315357049701301;160;in aantal km per dag;alle dagen
+71;iets anders;elektrische step/monowheel/hoverboard;0,00102076824743799;3;in aantal km per dag;alle dagen
+71;iets anders;lijnbus;0,0587291387227162;116;in aantal km per dag;alle dagen
+71;iets anders;metro;0,0016819173289798;2;in aantal km per dag;alle dagen
+71;iets anders;niet-elektrische fiets;0,0441751658870504;257;in aantal km per dag;alle dagen
+71;iets anders;speed pedelec;0,00911107893899695;19;in aantal km per dag;alle dagen
+71;iets anders;taxi of vergelijkbaar;0,00243692022721379;4;in aantal km per dag;alle dagen
+71;iets anders;te voet;0,0176166466787727;520;in aantal km per dag;alle dagen
+71;iets anders;tram;0,00511621585382524;23;in aantal km per dag;alle dagen
+71;iets anders;trein;0,350639692269237;166;in aantal km per dag;alle dagen
+71;iets/iemand wegbrengen/afhalen;anders;0,0294333396773058;21;in aantal km per dag;alle dagen
+71;iets/iemand wegbrengen/afhalen;autobestuurder;2,27468076762977;5596;in aantal km per dag;alle dagen
+71;iets/iemand wegbrengen/afhalen;autopassagier +18;0,251723374785904;540;in aantal km per dag;alle dagen
+71;iets/iemand wegbrengen/afhalen;autopassagier -18;0,0984636284008332;296;in aantal km per dag;alle dagen
+71;iets/iemand wegbrengen/afhalen;brom-/snorfiets of motor;0,00495011174092676;18;in aantal km per dag;alle dagen
+71;iets/iemand wegbrengen/afhalen;elektrische fiets;0,0567782098709286;533;in aantal km per dag;alle dagen
+71;iets/iemand wegbrengen/afhalen;elektrische step/monowheel/hoverboard;0,000453842936947338;2;in aantal km per dag;alle dagen
+71;iets/iemand wegbrengen/afhalen;lijnbus;0,0214391576336717;43;in aantal km per dag;alle dagen
+71;iets/iemand wegbrengen/afhalen;niet-elektrische fiets;0,0406838962129664;479;in aantal km per dag;alle dagen
+71;iets/iemand wegbrengen/afhalen;speed pedelec;0,00173871863059146;17;in aantal km per dag;alle dagen
+71;iets/iemand wegbrengen/afhalen;taxi of vergelijkbaar;0,000550675234985569;3;in aantal km per dag;alle dagen
+71;iets/iemand wegbrengen/afhalen;te voet;0,0214877745160296;806;in aantal km per dag;alle dagen
+71;iets/iemand wegbrengen/afhalen;tram;0,00397284013814489;9;in aantal km per dag;alle dagen
+71;iets/iemand wegbrengen/afhalen;trein;0,0411717791702171;25;in aantal km per dag;alle dagen
+71;onderwijs volgen;anders;0,00991075403733007;52;in aantal km per dag;alle dagen
+71;onderwijs volgen;autobestuurder;0,208792828201631;257;in aantal km per dag;alle dagen
+71;onderwijs volgen;autopassagier +18;0,0377582243888087;84;in aantal km per dag;alle dagen
+71;onderwijs volgen;autopassagier -18;0,200832298200953;1098;in aantal km per dag;alle dagen
+71;onderwijs volgen;brom-/snorfiets of motor;0,00918827223903878;35;in aantal km per dag;alle dagen
+71;onderwijs volgen;elektrische fiets;0,0402094486661929;215;in aantal km per dag;alle dagen
+71;onderwijs volgen;elektrische step/monowheel/hoverboard;0,00190605488954699;11;in aantal km per dag;alle dagen
+71;onderwijs volgen;lijnbus;0,241398135795728;566;in aantal km per dag;alle dagen
+71;onderwijs volgen;metro;0,00793448115412607;10;in aantal km per dag;alle dagen
+71;onderwijs volgen;niet-elektrische fiets;0,183397327181028;1640;in aantal km per dag;alle dagen
+71;onderwijs volgen;speed pedelec;0,00264021359295604;12;in aantal km per dag;alle dagen
+71;onderwijs volgen;taxi of vergelijkbaar;0,000260281864976785;2;in aantal km per dag;alle dagen
+71;onderwijs volgen;te voet;0,0251534376173168;815;in aantal km per dag;alle dagen
+71;onderwijs volgen;tram;0,0224343948085149;66;in aantal km per dag;alle dagen
+71;onderwijs volgen;trein;0,334378909429286;279;in aantal km per dag;alle dagen
+71;ontspanning, sport, cultuur;anders;0,0390610991314657;63;in aantal km per dag;alle dagen
+71;ontspanning, sport, cultuur;autobestuurder;2,06211404948832;3333;in aantal km per dag;alle dagen
+71;ontspanning, sport, cultuur;autopassagier +18;1,02416871863403;1345;in aantal km per dag;alle dagen
+71;ontspanning, sport, cultuur;autopassagier -18;0,793379761589004;1589;in aantal km per dag;alle dagen
+71;ontspanning, sport, cultuur;brom-/snorfiets of motor;0,0168814773170829;31;in aantal km per dag;alle dagen
+71;ontspanning, sport, cultuur;elektrische fiets;0,126569258783432;660;in aantal km per dag;alle dagen
+71;ontspanning, sport, cultuur;elektrische step/monowheel/hoverboard;0,00233112304718283;15;in aantal km per dag;alle dagen
+71;ontspanning, sport, cultuur;lijnbus;0,0879111594899207;171;in aantal km per dag;alle dagen
+71;ontspanning, sport, cultuur;metro;0,00214046484408458;10;in aantal km per dag;alle dagen
+71;ontspanning, sport, cultuur;niet-elektrische fiets;0,239867894874372;1459;in aantal km per dag;alle dagen
+71;ontspanning, sport, cultuur;speed pedelec;0,00820370156071025;37;in aantal km per dag;alle dagen
+71;ontspanning, sport, cultuur;taxi of vergelijkbaar;0,0265961179011356;20;in aantal km per dag;alle dagen
+71;ontspanning, sport, cultuur;te voet;0,0727481180549561;1594;in aantal km per dag;alle dagen
+71;ontspanning, sport, cultuur;tram;0,0337917710797229;94;in aantal km per dag;alle dagen
+71;ontspanning, sport, cultuur;trein;0,364030840902185;176;in aantal km per dag;alle dagen
+71;wandelen, rondrijden, joggen;anders;0,00556087744934538;26;in aantal km per dag;alle dagen
+71;wandelen, rondrijden, joggen;autobestuurder;0,314562149510369;478;in aantal km per dag;alle dagen
+71;wandelen, rondrijden, joggen;autopassagier +18;0,228089373038594;193;in aantal km per dag;alle dagen
+71;wandelen, rondrijden, joggen;autopassagier -18;0,0328691652336291;66;in aantal km per dag;alle dagen
+71;wandelen, rondrijden, joggen;brom-/snorfiets of motor;0,00824904341113481;4;in aantal km per dag;alle dagen
+71;wandelen, rondrijden, joggen;elektrische fiets;0,0873267659571;165;in aantal km per dag;alle dagen
+71;wandelen, rondrijden, joggen;elektrische step/monowheel/hoverboard;0,000240177306646589;1;in aantal km per dag;alle dagen
+71;wandelen, rondrijden, joggen;lijnbus;0,00769140879797549;15;in aantal km per dag;alle dagen
+71;wandelen, rondrijden, joggen;metro;0,00251587977363534;5;in aantal km per dag;alle dagen
+71;wandelen, rondrijden, joggen;niet-elektrische fiets;0,182097551449638;279;in aantal km per dag;alle dagen
+71;wandelen, rondrijden, joggen;speed pedelec;0,00463170263800142;6;in aantal km per dag;alle dagen
+71;wandelen, rondrijden, joggen;te voet;0,268004764031233;2280;in aantal km per dag;alle dagen
+71;wandelen, rondrijden, joggen;tram;0,00534542866679634;18;in aantal km per dag;alle dagen
+71;wandelen, rondrijden, joggen;trein;0,0499395522306898;15;in aantal km per dag;alle dagen
+71;werken;anders;0,146744783749657;77;in aantal km per dag;alle dagen
+71;werken;autobestuurder;5,8762650212605;6582;in aantal km per dag;alle dagen
+71;werken;autopassagier +18;0,246135660406954;277;in aantal km per dag;alle dagen
+71;werken;autopassagier -18;0,0168081875467436;24;in aantal km per dag;alle dagen
+71;werken;brom-/snorfiets of motor;0,0615286591495252;65;in aantal km per dag;alle dagen
+71;werken;elektrische fiets;0,319772441196636;1210;in aantal km per dag;alle dagen
+71;werken;elektrische step/monowheel/hoverboard;0,0116704993302464;41;in aantal km per dag;alle dagen
+71;werken;lijnbus;0,136436891317758;144;in aantal km per dag;alle dagen
+71;werken;metro;0,00471065581151546;14;in aantal km per dag;alle dagen
+71;werken;niet-elektrische fiets;0,255325462550244;1060;in aantal km per dag;alle dagen
+71;werken;speed pedelec;0,142293193158731;198;in aantal km per dag;alle dagen
+71;werken;taxi of vergelijkbaar;0,00532116054571464;4;in aantal km per dag;alle dagen
+71;werken;te voet;0,0165799249184014;533;in aantal km per dag;alle dagen
+71;werken;tram;0,0151555068194059;31;in aantal km per dag;alle dagen
+71;werken;trein;0,9234647092758;594;in aantal km per dag;alle dagen
+71;winkelen, boodschappen doen;anders;0,00761719945183001;43;in aantal km per dag;alle dagen
+71;winkelen, boodschappen doen;autobestuurder;1,87409125078406;6450;in aantal km per dag;alle dagen
+71;winkelen, boodschappen doen;autopassagier +18;0,512293203226908;1181;in aantal km per dag;alle dagen
+71;winkelen, boodschappen doen;autopassagier -18;0,152744798948309;544;in aantal km per dag;alle dagen
+71;winkelen, boodschappen doen;brom-/snorfiets of motor;0,00441189535562388;19;in aantal km per dag;alle dagen
+71;winkelen, boodschappen doen;elektrische fiets;0,118765371603565;1040;in aantal km per dag;alle dagen
+71;winkelen, boodschappen doen;elektrische step/monowheel/hoverboard;0,000475903114493663;9;in aantal km per dag;alle dagen
+71;winkelen, boodschappen doen;lijnbus;0,059605835799977;150;in aantal km per dag;alle dagen
+71;winkelen, boodschappen doen;metro;0,000990706833448362;5;in aantal km per dag;alle dagen
+71;winkelen, boodschappen doen;niet-elektrische fiets;0,0877470159560996;1090;in aantal km per dag;alle dagen
+71;winkelen, boodschappen doen;speed pedelec;0,0096205321825206;48;in aantal km per dag;alle dagen
+71;winkelen, boodschappen doen;taxi of vergelijkbaar;0,000738028987783913;4;in aantal km per dag;alle dagen
+71;winkelen, boodschappen doen;te voet;0,0754390942939584;2273;in aantal km per dag;alle dagen
+71;winkelen, boodschappen doen;tram;0,0161140480777086;54;in aantal km per dag;alle dagen
+71;winkelen, boodschappen doen;trein;0,0994806905032843;74;in aantal km per dag;alle dagen
+71;zakelijke verplaatsing;anders;0,119593560166688;72;in aantal km per dag;alle dagen
+71;zakelijke verplaatsing;autobestuurder;0,927953663037298;1120;in aantal km per dag;alle dagen
+71;zakelijke verplaatsing;autopassagier +18;0,0887788102826277;120;in aantal km per dag;alle dagen
+71;zakelijke verplaatsing;autopassagier -18;0,00709257424704898;10;in aantal km per dag;alle dagen
+71;zakelijke verplaatsing;brom-/snorfiets of motor;0,00283718337076588;5;in aantal km per dag;alle dagen
+71;zakelijke verplaatsing;elektrische fiets;0,0256432728390116;154;in aantal km per dag;alle dagen
+71;zakelijke verplaatsing;elektrische step/monowheel/hoverboard;0,000339246563098674;4;in aantal km per dag;alle dagen
+71;zakelijke verplaatsing;lijnbus;0,00864362748926883;9;in aantal km per dag;alle dagen
+71;zakelijke verplaatsing;metro;0,00224104545773205;4;in aantal km per dag;alle dagen
+71;zakelijke verplaatsing;niet-elektrische fiets;0,0136610026728485;109;in aantal km per dag;alle dagen
+71;zakelijke verplaatsing;speed pedelec;0,0100293998542778;18;in aantal km per dag;alle dagen
+71;zakelijke verplaatsing;taxi of vergelijkbaar;0,00423975769572092;2;in aantal km per dag;alle dagen
+71;zakelijke verplaatsing;te voet;0,00202216937644778;95;in aantal km per dag;alle dagen
+71;zakelijke verplaatsing;tram;0,0020159769011574;9;in aantal km per dag;alle dagen
+71;zakelijke verplaatsing;trein;0,0555801790000891;44;in aantal km per dag;alle dagen
+71;diensten (bv. dokter, bank);anders;0,000112629882783223;1;in aantal verplaatsingen per dag;weekend & feestdagen
+71;diensten (bv. dokter, bank);autobestuurder;0,0072216537924433;149;in aantal verplaatsingen per dag;weekend & feestdagen
+71;diensten (bv. dokter, bank);autopassagier +18;0,00399626642623531;62;in aantal verplaatsingen per dag;weekend & feestdagen
+71;diensten (bv. dokter, bank);autopassagier -18;0,000528022274180365;9;in aantal verplaatsingen per dag;weekend & feestdagen
+71;diensten (bv. dokter, bank);elektrische fiets;0,00157710099002212;29;in aantal verplaatsingen per dag;weekend & feestdagen
+71;diensten (bv. dokter, bank);elektrische step/monowheel/hoverboard;5,34209993788401e-05;2;in aantal verplaatsingen per dag;weekend & feestdagen
+71;diensten (bv. dokter, bank);lijnbus;0,000157617857105499;1;in aantal verplaatsingen per dag;weekend & feestdagen
+71;diensten (bv. dokter, bank);niet-elektrische fiets;0,00111560562883895;27;in aantal verplaatsingen per dag;weekend & feestdagen
+71;diensten (bv. dokter, bank);speed pedelec;0,000247962551618295;2;in aantal verplaatsingen per dag;weekend & feestdagen
+71;diensten (bv. dokter, bank);te voet;0,00392554571072221;71;in aantal verplaatsingen per dag;weekend & feestdagen
+71;diensten (bv. dokter, bank);tram;9,53082038402275e-05;1;in aantal verplaatsingen per dag;weekend & feestdagen
+71;diensten (bv. dokter, bank);trein;2,23063619561188e-05;1;in aantal verplaatsingen per dag;weekend & feestdagen
+71;geen antwoord;autobestuurder;6,4448527345377e-05;2;in aantal verplaatsingen per dag;weekend & feestdagen
+71;geen antwoord;elektrische step/monowheel/hoverboard;5,67578191953027e-05;1;in aantal verplaatsingen per dag;weekend & feestdagen
+71;geen antwoord;niet-elektrische fiets;8,87959966372072e-05;3;in aantal verplaatsingen per dag;weekend & feestdagen
+71;geen antwoord;te voet;0,000249851063757441;7;in aantal verplaatsingen per dag;weekend & feestdagen
+71;iemand bezoeken;anders;0,000231500013276641;3;in aantal verplaatsingen per dag;weekend & feestdagen
+71;iemand bezoeken;autobestuurder;0,0648200404965324;1295;in aantal verplaatsingen per dag;weekend & feestdagen
+71;iemand bezoeken;autopassagier +18;0,0275351542532582;571;in aantal verplaatsingen per dag;weekend & feestdagen
+71;iemand bezoeken;autopassagier -18;0,0143142927951757;322;in aantal verplaatsingen per dag;weekend & feestdagen
+71;iemand bezoeken;brom-/snorfiets of motor;0,000661640470378802;10;in aantal verplaatsingen per dag;weekend & feestdagen
+71;iemand bezoeken;elektrische fiets;0,00920774639248487;163;in aantal verplaatsingen per dag;weekend & feestdagen
+71;iemand bezoeken;elektrische step/monowheel/hoverboard;7,83195825834454e-05;1;in aantal verplaatsingen per dag;weekend & feestdagen
+71;iemand bezoeken;lijnbus;0,00121443309763034;25;in aantal verplaatsingen per dag;weekend & feestdagen
+71;iemand bezoeken;niet-elektrische fiets;0,0122752073054178;256;in aantal verplaatsingen per dag;weekend & feestdagen
+71;iemand bezoeken;speed pedelec;0,000270983457980184;3;in aantal verplaatsingen per dag;weekend & feestdagen
+71;iemand bezoeken;taxi of vergelijkbaar;7,28317496580454e-05;3;in aantal verplaatsingen per dag;weekend & feestdagen
+71;iemand bezoeken;te voet;0,0142555213664241;298;in aantal verplaatsingen per dag;weekend & feestdagen
+71;iemand bezoeken;tram;0,00131333566953763;14;in aantal verplaatsingen per dag;weekend & feestdagen
+71;iemand bezoeken;trein;0,00139124720682445;33;in aantal verplaatsingen per dag;weekend & feestdagen
+71;iets anders;anders;0,000365129967725174;7;in aantal verplaatsingen per dag;weekend & feestdagen
+71;iets anders;autobestuurder;0,0142393437987354;287;in aantal verplaatsingen per dag;weekend & feestdagen
+71;iets anders;autopassagier +18;0,00809097520912397;153;in aantal verplaatsingen per dag;weekend & feestdagen
+71;iets anders;autopassagier -18;0,00331888308044858;71;in aantal verplaatsingen per dag;weekend & feestdagen
+71;iets anders;brom-/snorfiets of motor;4,313761917148e-05;1;in aantal verplaatsingen per dag;weekend & feestdagen
+71;iets anders;elektrische fiets;0,00218872106831095;43;in aantal verplaatsingen per dag;weekend & feestdagen
+71;iets anders;lijnbus;0,00133921849724984;19;in aantal verplaatsingen per dag;weekend & feestdagen
+71;iets anders;niet-elektrische fiets;0,00314715106151741;59;in aantal verplaatsingen per dag;weekend & feestdagen
+71;iets anders;speed pedelec;0,000249380955005009;3;in aantal verplaatsingen per dag;weekend & feestdagen
+71;iets anders;te voet;0,00688652233955127;136;in aantal verplaatsingen per dag;weekend & feestdagen
+71;iets anders;tram;0,000341894155762798;8;in aantal verplaatsingen per dag;weekend & feestdagen
+71;iets anders;trein;0,0021951752282226;39;in aantal verplaatsingen per dag;weekend & feestdagen
+71;iets/iemand wegbrengen/afhalen;anders;0,00015881982528771;2;in aantal verplaatsingen per dag;weekend & feestdagen
+71;iets/iemand wegbrengen/afhalen;autobestuurder;0,0725612156844708;1259;in aantal verplaatsingen per dag;weekend & feestdagen
+71;iets/iemand wegbrengen/afhalen;autopassagier +18;0,00988920042996071;204;in aantal verplaatsingen per dag;weekend & feestdagen
+71;iets/iemand wegbrengen/afhalen;autopassagier -18;0,00449951176327264;103;in aantal verplaatsingen per dag;weekend & feestdagen
+71;iets/iemand wegbrengen/afhalen;brom-/snorfiets of motor;0,000562158368186354;3;in aantal verplaatsingen per dag;weekend & feestdagen
+71;iets/iemand wegbrengen/afhalen;elektrische fiets;0,00344528034978485;67;in aantal verplaatsingen per dag;weekend & feestdagen
+71;iets/iemand wegbrengen/afhalen;lijnbus;0,000520352777248774;10;in aantal verplaatsingen per dag;weekend & feestdagen
+71;iets/iemand wegbrengen/afhalen;niet-elektrische fiets;0,00321240126115371;59;in aantal verplaatsingen per dag;weekend & feestdagen
+71;iets/iemand wegbrengen/afhalen;speed pedelec;8,3259583093746e-05;3;in aantal verplaatsingen per dag;weekend & feestdagen
+71;iets/iemand wegbrengen/afhalen;te voet;0,00605295095733407;112;in aantal verplaatsingen per dag;weekend & feestdagen
+71;iets/iemand wegbrengen/afhalen;tram;0,000183751963794301;3;in aantal verplaatsingen per dag;weekend & feestdagen
+71;iets/iemand wegbrengen/afhalen;trein;0,000316223741016886;4;in aantal verplaatsingen per dag;weekend & feestdagen
+71;onderwijs volgen;anders;0,000173490717395704;3;in aantal verplaatsingen per dag;weekend & feestdagen
+71;onderwijs volgen;autobestuurder;0,0011458867507974;24;in aantal verplaatsingen per dag;weekend & feestdagen
+71;onderwijs volgen;autopassagier +18;0,000361585680705324;5;in aantal verplaatsingen per dag;weekend & feestdagen
+71;onderwijs volgen;autopassagier -18;0,00113845498059755;22;in aantal verplaatsingen per dag;weekend & feestdagen
+71;onderwijs volgen;elektrische fiets;0,000433569506460144;9;in aantal verplaatsingen per dag;weekend & feestdagen
+71;onderwijs volgen;elektrische step/monowheel/hoverboard;7,24040454327433e-05;2;in aantal verplaatsingen per dag;weekend & feestdagen
+71;onderwijs volgen;lijnbus;0,000485516566327879;8;in aantal verplaatsingen per dag;weekend & feestdagen
+71;onderwijs volgen;niet-elektrische fiets;0,00113939819226398;23;in aantal verplaatsingen per dag;weekend & feestdagen
+71;onderwijs volgen;speed pedelec;8,90289184448519e-05;2;in aantal verplaatsingen per dag;weekend & feestdagen
+71;onderwijs volgen;te voet;0,000737513775767423;9;in aantal verplaatsingen per dag;weekend & feestdagen
+71;onderwijs volgen;tram;0,000297096962333092;4;in aantal verplaatsingen per dag;weekend & feestdagen
+71;onderwijs volgen;trein;0,00016577249625587;5;in aantal verplaatsingen per dag;weekend & feestdagen
+71;ontspanning, sport, cultuur;anders;0,000951193919968097;21;in aantal verplaatsingen per dag;weekend & feestdagen
+71;ontspanning, sport, cultuur;autobestuurder;0,0714102549861055;1326;in aantal verplaatsingen per dag;weekend & feestdagen
+71;ontspanning, sport, cultuur;autopassagier +18;0,0381465321174405;690;in aantal verplaatsingen per dag;weekend & feestdagen
+71;ontspanning, sport, cultuur;autopassagier -18;0,0312800965640339;654;in aantal verplaatsingen per dag;weekend & feestdagen
+71;ontspanning, sport, cultuur;brom-/snorfiets of motor;0,000817069869783276;14;in aantal verplaatsingen per dag;weekend & feestdagen
+71;ontspanning, sport, cultuur;elektrische fiets;0,0134021809702985;239;in aantal verplaatsingen per dag;weekend & feestdagen
+71;ontspanning, sport, cultuur;elektrische step/monowheel/hoverboard;0,000248346667294463;6;in aantal verplaatsingen per dag;weekend & feestdagen
+71;ontspanning, sport, cultuur;lijnbus;0,00296044682549544;61;in aantal verplaatsingen per dag;weekend & feestdagen
+71;ontspanning, sport, cultuur;metro;4,63282630408087e-05;2;in aantal verplaatsingen per dag;weekend & feestdagen
+71;ontspanning, sport, cultuur;niet-elektrische fiets;0,0272019892098156;548;in aantal verplaatsingen per dag;weekend & feestdagen
+71;ontspanning, sport, cultuur;speed pedelec;0,000349892619462061;10;in aantal verplaatsingen per dag;weekend & feestdagen
+71;ontspanning, sport, cultuur;taxi of vergelijkbaar;0,000761030575078938;10;in aantal verplaatsingen per dag;weekend & feestdagen
+71;ontspanning, sport, cultuur;te voet;0,0315061098900956;629;in aantal verplaatsingen per dag;weekend & feestdagen
+71;ontspanning, sport, cultuur;tram;0,00278807985109189;42;in aantal verplaatsingen per dag;weekend & feestdagen
+71;ontspanning, sport, cultuur;trein;0,00342889895931121;72;in aantal verplaatsingen per dag;weekend & feestdagen
+71;wandelen, rondrijden, joggen;anders;0,000853195775946469;13;in aantal verplaatsingen per dag;weekend & feestdagen
+71;wandelen, rondrijden, joggen;autobestuurder;0,0112639325425162;236;in aantal verplaatsingen per dag;weekend & feestdagen
+71;wandelen, rondrijden, joggen;autopassagier +18;0,00680733475836812;128;in aantal verplaatsingen per dag;weekend & feestdagen
+71;wandelen, rondrijden, joggen;autopassagier -18;0,00190093360508874;46;in aantal verplaatsingen per dag;weekend & feestdagen
+71;wandelen, rondrijden, joggen;brom-/snorfiets of motor;6,04369060406536e-05;1;in aantal verplaatsingen per dag;weekend & feestdagen
+71;wandelen, rondrijden, joggen;elektrische fiets;0,00360894780322985;77;in aantal verplaatsingen per dag;weekend & feestdagen
+71;wandelen, rondrijden, joggen;elektrische step/monowheel/hoverboard;5,96155585205134e-05;1;in aantal verplaatsingen per dag;weekend & feestdagen
+71;wandelen, rondrijden, joggen;lijnbus;0,000427816795851542;6;in aantal verplaatsingen per dag;weekend & feestdagen
+71;wandelen, rondrijden, joggen;metro;0,000162700027988665;3;in aantal verplaatsingen per dag;weekend & feestdagen
+71;wandelen, rondrijden, joggen;niet-elektrische fiets;0,00690765934246858;125;in aantal verplaatsingen per dag;weekend & feestdagen
+71;wandelen, rondrijden, joggen;speed pedelec;0,00021073907885964;4;in aantal verplaatsingen per dag;weekend & feestdagen
+71;wandelen, rondrijden, joggen;te voet;0,0407939359957926;831;in aantal verplaatsingen per dag;weekend & feestdagen
+71;wandelen, rondrijden, joggen;tram;0,000317384353513629;7;in aantal verplaatsingen per dag;weekend & feestdagen
+71;wandelen, rondrijden, joggen;trein;0,000357425661024228;7;in aantal verplaatsingen per dag;weekend & feestdagen
+71;werken;anders;0,000161103509962322;4;in aantal verplaatsingen per dag;weekend & feestdagen
+71;werken;autobestuurder;0,0316759104659151;489;in aantal verplaatsingen per dag;weekend & feestdagen
+71;werken;autopassagier +18;0,00259042173033385;43;in aantal verplaatsingen per dag;weekend & feestdagen
+71;werken;autopassagier -18;0,000447717092871934;9;in aantal verplaatsingen per dag;weekend & feestdagen
+71;werken;brom-/snorfiets of motor;0,00030046176261205;5;in aantal verplaatsingen per dag;weekend & feestdagen
+71;werken;elektrische fiets;0,0031324437947355;65;in aantal verplaatsingen per dag;weekend & feestdagen
+71;werken;elektrische step/monowheel/hoverboard;0,000742261314663633;8;in aantal verplaatsingen per dag;weekend & feestdagen
+71;werken;lijnbus;0,00105892350284978;12;in aantal verplaatsingen per dag;weekend & feestdagen
+71;werken;metro;3,2635869393257e-05;1;in aantal verplaatsingen per dag;weekend & feestdagen
+71;werken;niet-elektrische fiets;0,00561465843464743;77;in aantal verplaatsingen per dag;weekend & feestdagen
+71;werken;speed pedelec;0,000395363619112144;4;in aantal verplaatsingen per dag;weekend & feestdagen
+71;werken;taxi of vergelijkbaar;6,86634973174566e-05;2;in aantal verplaatsingen per dag;weekend & feestdagen
+71;werken;te voet;0,00344103985912381;54;in aantal verplaatsingen per dag;weekend & feestdagen
+71;werken;tram;0,000179548133585902;2;in aantal verplaatsingen per dag;weekend & feestdagen
+71;werken;trein;0,00113272525869399;16;in aantal verplaatsingen per dag;weekend & feestdagen
+71;winkelen, boodschappen doen;anders;0,000676969293270773;9;in aantal verplaatsingen per dag;weekend & feestdagen
+71;winkelen, boodschappen doen;autobestuurder;0,114002420565364;2015;in aantal verplaatsingen per dag;weekend & feestdagen
+71;winkelen, boodschappen doen;autopassagier +18;0,0263329788018894;481;in aantal verplaatsingen per dag;weekend & feestdagen
+71;winkelen, boodschappen doen;autopassagier -18;0,0103607291151234;228;in aantal verplaatsingen per dag;weekend & feestdagen
+71;winkelen, boodschappen doen;brom-/snorfiets of motor;0,000480351299920722;7;in aantal verplaatsingen per dag;weekend & feestdagen
+71;winkelen, boodschappen doen;elektrische fiets;0,0158293967360643;298;in aantal verplaatsingen per dag;weekend & feestdagen
+71;winkelen, boodschappen doen;elektrische step/monowheel/hoverboard;0,000147657588083115;2;in aantal verplaatsingen per dag;weekend & feestdagen
+71;winkelen, boodschappen doen;lijnbus;0,00283272500343986;45;in aantal verplaatsingen per dag;weekend & feestdagen
+71;winkelen, boodschappen doen;metro;0,000213112722419751;3;in aantal verplaatsingen per dag;weekend & feestdagen
+71;winkelen, boodschappen doen;niet-elektrische fiets;0,0157264167845709;296;in aantal verplaatsingen per dag;weekend & feestdagen
+71;winkelen, boodschappen doen;speed pedelec;0,000503772875113841;9;in aantal verplaatsingen per dag;weekend & feestdagen
+71;winkelen, boodschappen doen;te voet;0,0347728615012219;663;in aantal verplaatsingen per dag;weekend & feestdagen
+71;winkelen, boodschappen doen;tram;0,00125643659856247;11;in aantal verplaatsingen per dag;weekend & feestdagen
+71;winkelen, boodschappen doen;trein;0,00106447845951303;23;in aantal verplaatsingen per dag;weekend & feestdagen
+71;zakelijke verplaatsing;anders;0,000198818368413212;7;in aantal verplaatsingen per dag;weekend & feestdagen
+71;zakelijke verplaatsing;autobestuurder;0,00511032742242049;97;in aantal verplaatsingen per dag;weekend & feestdagen
+71;zakelijke verplaatsing;autopassagier +18;0,00104293269609956;22;in aantal verplaatsingen per dag;weekend & feestdagen
+71;zakelijke verplaatsing;autopassagier -18;3,22147507452764e-05;1;in aantal verplaatsingen per dag;weekend & feestdagen
+71;zakelijke verplaatsing;brom-/snorfiets of motor;0,000110892573856864;2;in aantal verplaatsingen per dag;weekend & feestdagen
+71;zakelijke verplaatsing;elektrische fiets;0,000706983856980234;12;in aantal verplaatsingen per dag;weekend & feestdagen
+71;zakelijke verplaatsing;elektrische step/monowheel/hoverboard;0,000101325822760451;2;in aantal verplaatsingen per dag;weekend & feestdagen
+71;zakelijke verplaatsing;niet-elektrische fiets;0,000496618351962117;8;in aantal verplaatsingen per dag;weekend & feestdagen
+71;zakelijke verplaatsing;te voet;0,000627254854377311;14;in aantal verplaatsingen per dag;weekend & feestdagen
+71;zakelijke verplaatsing;tram;9,87187520756918e-05;2;in aantal verplaatsingen per dag;weekend & feestdagen
+71;zakelijke verplaatsing;trein;0,000257983850984331;4;in aantal verplaatsingen per dag;weekend & feestdagen
+71;diensten (bv. dokter, bank);anders;0,00147154389788319;18;in aantal verplaatsingen per dag;werkdag (excl. feestdagen)
+71;diensten (bv. dokter, bank);autobestuurder;0,0669134115386755;1481;in aantal verplaatsingen per dag;werkdag (excl. feestdagen)
+71;diensten (bv. dokter, bank);autopassagier +18;0,0149555446916784;302;in aantal verplaatsingen per dag;werkdag (excl. feestdagen)
+71;diensten (bv. dokter, bank);autopassagier -18;0,00752511020704785;169;in aantal verplaatsingen per dag;werkdag (excl. feestdagen)
+71;diensten (bv. dokter, bank);brom-/snorfiets of motor;0,000705808532355979;11;in aantal verplaatsingen per dag;werkdag (excl. feestdagen)
+71;diensten (bv. dokter, bank);elektrische fiets;0,00919440225081503;216;in aantal verplaatsingen per dag;werkdag (excl. feestdagen)
+71;diensten (bv. dokter, bank);elektrische step/monowheel/hoverboard;9,65360997059905e-05;2;in aantal verplaatsingen per dag;werkdag (excl. feestdagen)
+71;diensten (bv. dokter, bank);lijnbus;0,00247474991934733;53;in aantal verplaatsingen per dag;werkdag (excl. feestdagen)
+71;diensten (bv. dokter, bank);metro;5,57262202446531e-05;2;in aantal verplaatsingen per dag;werkdag (excl. feestdagen)
+71;diensten (bv. dokter, bank);niet-elektrische fiets;0,0107202874206669;225;in aantal verplaatsingen per dag;werkdag (excl. feestdagen)
+71;diensten (bv. dokter, bank);speed pedelec;0,000518560800020537;10;in aantal verplaatsingen per dag;werkdag (excl. feestdagen)
+71;diensten (bv. dokter, bank);taxi of vergelijkbaar;8,59459927009363e-05;2;in aantal verplaatsingen per dag;werkdag (excl. feestdagen)
+71;diensten (bv. dokter, bank);te voet;0,0133794360414108;300;in aantal verplaatsingen per dag;werkdag (excl. feestdagen)
+71;diensten (bv. dokter, bank);tram;0,000717740601740976;11;in aantal verplaatsingen per dag;werkdag (excl. feestdagen)
+71;diensten (bv. dokter, bank);trein;0,000514362122083269;18;in aantal verplaatsingen per dag;werkdag (excl. feestdagen)
+71;geen antwoord;autobestuurder;0,00082062310159932;18;in aantal verplaatsingen per dag;werkdag (excl. feestdagen)
+71;geen antwoord;autopassagier +18;0,000283700369391713;8;in aantal verplaatsingen per dag;werkdag (excl. feestdagen)
+71;geen antwoord;elektrische fiets;0,000251628639399189;3;in aantal verplaatsingen per dag;werkdag (excl. feestdagen)
+71;geen antwoord;lijnbus;3,01476121604272e-05;1;in aantal verplaatsingen per dag;werkdag (excl. feestdagen)
+71;geen antwoord;te voet;0,000451312956176884;8;in aantal verplaatsingen per dag;werkdag (excl. feestdagen)
+71;geen antwoord;trein;1,55526971165238e-05;1;in aantal verplaatsingen per dag;werkdag (excl. feestdagen)
+71;iemand bezoeken;anders;0,000707405584770366;15;in aantal verplaatsingen per dag;werkdag (excl. feestdagen)
+71;iemand bezoeken;autobestuurder;0,0918043274814451;1803;in aantal verplaatsingen per dag;werkdag (excl. feestdagen)
+71;iemand bezoeken;autopassagier +18;0,019168796473558;370;in aantal verplaatsingen per dag;werkdag (excl. feestdagen)
+71;iemand bezoeken;autopassagier -18;0,0132895019420364;302;in aantal verplaatsingen per dag;werkdag (excl. feestdagen)
+71;iemand bezoeken;brom-/snorfiets of motor;0,000717567277074621;13;in aantal verplaatsingen per dag;werkdag (excl. feestdagen)
+71;iemand bezoeken;elektrische fiets;0,0144539618808559;313;in aantal verplaatsingen per dag;werkdag (excl. feestdagen)
+71;iemand bezoeken;elektrische step/monowheel/hoverboard;0,000398219266827805;5;in aantal verplaatsingen per dag;werkdag (excl. feestdagen)
+71;iemand bezoeken;lijnbus;0,00281691294331295;52;in aantal verplaatsingen per dag;werkdag (excl. feestdagen)
+71;iemand bezoeken;metro;0,000131546848697764;3;in aantal verplaatsingen per dag;werkdag (excl. feestdagen)
+71;iemand bezoeken;niet-elektrische fiets;0,0180416294421233;393;in aantal verplaatsingen per dag;werkdag (excl. feestdagen)
+71;iemand bezoeken;speed pedelec;0,000524666697831516;11;in aantal verplaatsingen per dag;werkdag (excl. feestdagen)
+71;iemand bezoeken;taxi of vergelijkbaar;1,6848082911442e-05;1;in aantal verplaatsingen per dag;werkdag (excl. feestdagen)
+71;iemand bezoeken;te voet;0,0221875025405365;494;in aantal verplaatsingen per dag;werkdag (excl. feestdagen)
+71;iemand bezoeken;tram;0,00178884327912942;28;in aantal verplaatsingen per dag;werkdag (excl. feestdagen)
+71;iemand bezoeken;trein;0,00241845405224497;60;in aantal verplaatsingen per dag;werkdag (excl. feestdagen)
+71;iets anders;anders;0,001018145222988;16;in aantal verplaatsingen per dag;werkdag (excl. feestdagen)
+71;iets anders;autobestuurder;0,0406767317932932;805;in aantal verplaatsingen per dag;werkdag (excl. feestdagen)
+71;iets anders;autopassagier +18;0,00985445071343581;220;in aantal verplaatsingen per dag;werkdag (excl. feestdagen)
+71;iets anders;autopassagier -18;0,00483166955507367;126;in aantal verplaatsingen per dag;werkdag (excl. feestdagen)
+71;iets anders;brom-/snorfiets of motor;4,53118484144511e-05;1;in aantal verplaatsingen per dag;werkdag (excl. feestdagen)
+71;iets anders;elektrische fiets;0,0058921886830016;117;in aantal verplaatsingen per dag;werkdag (excl. feestdagen)
+71;iets anders;elektrische step/monowheel/hoverboard;0,000203268519168627;3;in aantal verplaatsingen per dag;werkdag (excl. feestdagen)
+71;iets anders;lijnbus;0,0044413749866682;97;in aantal verplaatsingen per dag;werkdag (excl. feestdagen)
+71;iets anders;metro;0,000130298610526193;2;in aantal verplaatsingen per dag;werkdag (excl. feestdagen)
+71;iets anders;niet-elektrische fiets;0,0094040022404429;198;in aantal verplaatsingen per dag;werkdag (excl. feestdagen)
+71;iets anders;speed pedelec;0,000863852394692033;16;in aantal verplaatsingen per dag;werkdag (excl. feestdagen)
+71;iets anders;taxi of vergelijkbaar;0,000137883075594754;4;in aantal verplaatsingen per dag;werkdag (excl. feestdagen)
+71;iets anders;te voet;0,0177431333361764;384;in aantal verplaatsingen per dag;werkdag (excl. feestdagen)
+71;iets anders;tram;0,000724447037921695;15;in aantal verplaatsingen per dag;werkdag (excl. feestdagen)
+71;iets anders;trein;0,00562721602475773;127;in aantal verplaatsingen per dag;werkdag (excl. feestdagen)
+71;iets/iemand wegbrengen/afhalen;anders;0,000974671404433194;19;in aantal verplaatsingen per dag;werkdag (excl. feestdagen)
+71;iets/iemand wegbrengen/afhalen;autobestuurder;0,208371558333992;4337;in aantal verplaatsingen per dag;werkdag (excl. feestdagen)
+71;iets/iemand wegbrengen/afhalen;autopassagier +18;0,0151617149532952;336;in aantal verplaatsingen per dag;werkdag (excl. feestdagen)
+71;iets/iemand wegbrengen/afhalen;autopassagier -18;0,0074895112594611;193;in aantal verplaatsingen per dag;werkdag (excl. feestdagen)
+71;iets/iemand wegbrengen/afhalen;brom-/snorfiets of motor;0,00109185670520077;15;in aantal verplaatsingen per dag;werkdag (excl. feestdagen)
+71;iets/iemand wegbrengen/afhalen;elektrische fiets;0,0209164633128254;466;in aantal verplaatsingen per dag;werkdag (excl. feestdagen)
+71;iets/iemand wegbrengen/afhalen;elektrische step/monowheel/hoverboard;0,00011239974821363;2;in aantal verplaatsingen per dag;werkdag (excl. feestdagen)
+71;iets/iemand wegbrengen/afhalen;lijnbus;0,00192945283985274;33;in aantal verplaatsingen per dag;werkdag (excl. feestdagen)
+71;iets/iemand wegbrengen/afhalen;niet-elektrische fiets;0,0205524384037703;420;in aantal verplaatsingen per dag;werkdag (excl. feestdagen)
+71;iets/iemand wegbrengen/afhalen;speed pedelec;0,000447413650998145;14;in aantal verplaatsingen per dag;werkdag (excl. feestdagen)
+71;iets/iemand wegbrengen/afhalen;taxi of vergelijkbaar;0,000124350732775842;3;in aantal verplaatsingen per dag;werkdag (excl. feestdagen)
+71;iets/iemand wegbrengen/afhalen;te voet;0,0334176342374436;694;in aantal verplaatsingen per dag;werkdag (excl. feestdagen)
+71;iets/iemand wegbrengen/afhalen;tram;0,000731112626952526;6;in aantal verplaatsingen per dag;werkdag (excl. feestdagen)
+71;iets/iemand wegbrengen/afhalen;trein;0,000770052571241508;21;in aantal verplaatsingen per dag;werkdag (excl. feestdagen)
+71;onderwijs volgen;anders;0,0020976263098224;49;in aantal verplaatsingen per dag;werkdag (excl. feestdagen)
+71;onderwijs volgen;autobestuurder;0,010951887286068;233;in aantal verplaatsingen per dag;werkdag (excl. feestdagen)
+71;onderwijs volgen;autopassagier +18;0,00462842343960729;79;in aantal verplaatsingen per dag;werkdag (excl. feestdagen)
+71;onderwijs volgen;autopassagier -18;0,043093366608965;1076;in aantal verplaatsingen per dag;werkdag (excl. feestdagen)
+71;onderwijs volgen;brom-/snorfiets of motor;0,00137696909449752;35;in aantal verplaatsingen per dag;werkdag (excl. feestdagen)
+71;onderwijs volgen;elektrische fiets;0,00929068267922148;206;in aantal verplaatsingen per dag;werkdag (excl. feestdagen)
+71;onderwijs volgen;elektrische step/monowheel/hoverboard;0,000523052385628097;9;in aantal verplaatsingen per dag;werkdag (excl. feestdagen)
+71;onderwijs volgen;lijnbus;0,025203263956832;558;in aantal verplaatsingen per dag;werkdag (excl. feestdagen)
+71;onderwijs volgen;metro;0,000663594603490586;10;in aantal verplaatsingen per dag;werkdag (excl. feestdagen)
+71;onderwijs volgen;niet-elektrische fiets;0,0705592457882614;1617;in aantal verplaatsingen per dag;werkdag (excl. feestdagen)
+71;onderwijs volgen;speed pedelec;0,00049048919820016;10;in aantal verplaatsingen per dag;werkdag (excl. feestdagen)
+71;onderwijs volgen;taxi of vergelijkbaar;0,000107676345238453;2;in aantal verplaatsingen per dag;werkdag (excl. feestdagen)
+71;onderwijs volgen;te voet;0,0352741049701852;806;in aantal verplaatsingen per dag;werkdag (excl. feestdagen)
+71;onderwijs volgen;tram;0,00394167626705812;62;in aantal verplaatsingen per dag;werkdag (excl. feestdagen)
+71;onderwijs volgen;trein;0,0120526681524738;274;in aantal verplaatsingen per dag;werkdag (excl. feestdagen)
+71;ontspanning, sport, cultuur;anders;0,00209830312588195;42;in aantal verplaatsingen per dag;werkdag (excl. feestdagen)
+71;ontspanning, sport, cultuur;autobestuurder;0,0935778918599292;2007;in aantal verplaatsingen per dag;werkdag (excl. feestdagen)
+71;ontspanning, sport, cultuur;autopassagier +18;0,0314991751615149;655;in aantal verplaatsingen per dag;werkdag (excl. feestdagen)
+71;ontspanning, sport, cultuur;autopassagier -18;0,0380409465304893;935;in aantal verplaatsingen per dag;werkdag (excl. feestdagen)
+71;ontspanning, sport, cultuur;brom-/snorfiets of motor;0,000798882216363773;17;in aantal verplaatsingen per dag;werkdag (excl. feestdagen)
+71;ontspanning, sport, cultuur;elektrische fiets;0,0181338856788027;421;in aantal verplaatsingen per dag;werkdag (excl. feestdagen)
+71;ontspanning, sport, cultuur;elektrische step/monowheel/hoverboard;0,000395355649182191;9;in aantal verplaatsingen per dag;werkdag (excl. feestdagen)
+71;ontspanning, sport, cultuur;lijnbus;0,00516146647064132;110;in aantal verplaatsingen per dag;werkdag (excl. feestdagen)
+71;ontspanning, sport, cultuur;metro;0,000223670141270468;8;in aantal verplaatsingen per dag;werkdag (excl. feestdagen)
+71;ontspanning, sport, cultuur;niet-elektrische fiets;0,043521722520124;911;in aantal verplaatsingen per dag;werkdag (excl. feestdagen)
+71;ontspanning, sport, cultuur;speed pedelec;0,00137282566960538;27;in aantal verplaatsingen per dag;werkdag (excl. feestdagen)
+71;ontspanning, sport, cultuur;taxi of vergelijkbaar;0,000760661113440111;10;in aantal verplaatsingen per dag;werkdag (excl. feestdagen)
+71;ontspanning, sport, cultuur;te voet;0,0421739999812076;965;in aantal verplaatsingen per dag;werkdag (excl. feestdagen)
+71;ontspanning, sport, cultuur;tram;0,00342911676594211;52;in aantal verplaatsingen per dag;werkdag (excl. feestdagen)
+71;ontspanning, sport, cultuur;trein;0,0051930533136692;104;in aantal verplaatsingen per dag;werkdag (excl. feestdagen)
+71;wandelen, rondrijden, joggen;anders;0,000332295359397374;13;in aantal verplaatsingen per dag;werkdag (excl. feestdagen)
+71;wandelen, rondrijden, joggen;autobestuurder;0,0104470146831863;242;in aantal verplaatsingen per dag;werkdag (excl. feestdagen)
+71;wandelen, rondrijden, joggen;autopassagier +18;0,00342722300076953;65;in aantal verplaatsingen per dag;werkdag (excl. feestdagen)
+71;wandelen, rondrijden, joggen;autopassagier -18;0,000814704808565762;20;in aantal verplaatsingen per dag;werkdag (excl. feestdagen)
+71;wandelen, rondrijden, joggen;brom-/snorfiets of motor;0,000201769384512314;3;in aantal verplaatsingen per dag;werkdag (excl. feestdagen)
+71;wandelen, rondrijden, joggen;elektrische fiets;0,00376669177456414;88;in aantal verplaatsingen per dag;werkdag (excl. feestdagen)
+71;wandelen, rondrijden, joggen;lijnbus;0,000427214035883166;9;in aantal verplaatsingen per dag;werkdag (excl. feestdagen)
+71;wandelen, rondrijden, joggen;metro;0,00017817083955949;2;in aantal verplaatsingen per dag;werkdag (excl. feestdagen)
+71;wandelen, rondrijden, joggen;niet-elektrische fiets;0,00658210252769854;154;in aantal verplaatsingen per dag;werkdag (excl. feestdagen)
+71;wandelen, rondrijden, joggen;speed pedelec;0,000339622024075962;2;in aantal verplaatsingen per dag;werkdag (excl. feestdagen)
+71;wandelen, rondrijden, joggen;te voet;0,0661571350399471;1449;in aantal verplaatsingen per dag;werkdag (excl. feestdagen)
+71;wandelen, rondrijden, joggen;tram;0,000716763568305307;11;in aantal verplaatsingen per dag;werkdag (excl. feestdagen)
+71;wandelen, rondrijden, joggen;trein;0,000314490284678437;8;in aantal verplaatsingen per dag;werkdag (excl. feestdagen)
+71;werken;anders;0,00710309184027508;73;in aantal verplaatsingen per dag;werkdag (excl. feestdagen)
+71;werken;autobestuurder;0,323945313791294;6093;in aantal verplaatsingen per dag;werkdag (excl. feestdagen)
+71;werken;autopassagier +18;0,0134270807594322;234;in aantal verplaatsingen per dag;werkdag (excl. feestdagen)
+71;werken;autopassagier -18;0,000785068000255721;15;in aantal verplaatsingen per dag;werkdag (excl. feestdagen)
+71;werken;brom-/snorfiets of motor;0,00506511314509193;60;in aantal verplaatsingen per dag;werkdag (excl. feestdagen)
+71;werken;elektrische fiets;0,0575142707256347;1145;in aantal verplaatsingen per dag;werkdag (excl. feestdagen)
+71;werken;elektrische step/monowheel/hoverboard;0,00268875008733642;33;in aantal verplaatsingen per dag;werkdag (excl. feestdagen)
+71;werken;lijnbus;0,0105434009813709;132;in aantal verplaatsingen per dag;werkdag (excl. feestdagen)
+71;werken;metro;0,00066759690628049;13;in aantal verplaatsingen per dag;werkdag (excl. feestdagen)
+71;werken;niet-elektrische fiets;0,0520011682421917;983;in aantal verplaatsingen per dag;werkdag (excl. feestdagen)
+71;werken;speed pedelec;0,0101932493046116;194;in aantal verplaatsingen per dag;werkdag (excl. feestdagen)
+71;werken;taxi of vergelijkbaar;0,000245550711149064;2;in aantal verplaatsingen per dag;werkdag (excl. feestdagen)
+71;werken;te voet;0,0225569453753306;479;in aantal verplaatsingen per dag;werkdag (excl. feestdagen)
+71;werken;tram;0,00212601948543685;29;in aantal verplaatsingen per dag;werkdag (excl. feestdagen)
+71;werken;trein;0,0242108085518492;578;in aantal verplaatsingen per dag;werkdag (excl. feestdagen)
+71;winkelen, boodschappen doen;anders;0,00243238827267942;34;in aantal verplaatsingen per dag;werkdag (excl. feestdagen)
+71;winkelen, boodschappen doen;autobestuurder;0,207053359652368;4435;in aantal verplaatsingen per dag;werkdag (excl. feestdagen)
+71;winkelen, boodschappen doen;autopassagier +18;0,0362438960869106;700;in aantal verplaatsingen per dag;werkdag (excl. feestdagen)
+71;winkelen, boodschappen doen;autopassagier -18;0,0124079857850392;316;in aantal verplaatsingen per dag;werkdag (excl. feestdagen)
+71;winkelen, boodschappen doen;brom-/snorfiets of motor;0,000581126037735614;12;in aantal verplaatsingen per dag;werkdag (excl. feestdagen)
+71;winkelen, boodschappen doen;elektrische fiets;0,0325962376468383;742;in aantal verplaatsingen per dag;werkdag (excl. feestdagen)
+71;winkelen, boodschappen doen;elektrische step/monowheel/hoverboard;0,000387630244484088;7;in aantal verplaatsingen per dag;werkdag (excl. feestdagen)
+71;winkelen, boodschappen doen;lijnbus;0,00606503473452208;105;in aantal verplaatsingen per dag;werkdag (excl. feestdagen)
+71;winkelen, boodschappen doen;metro;7,31516137633837e-05;2;in aantal verplaatsingen per dag;werkdag (excl. feestdagen)
+71;winkelen, boodschappen doen;niet-elektrische fiets;0,0363748444600886;794;in aantal verplaatsingen per dag;werkdag (excl. feestdagen)
+71;winkelen, boodschappen doen;speed pedelec;0,00213900339116299;39;in aantal verplaatsingen per dag;werkdag (excl. feestdagen)
+71;winkelen, boodschappen doen;taxi of vergelijkbaar;0,000369083975208527;4;in aantal verplaatsingen per dag;werkdag (excl. feestdagen)
+71;winkelen, boodschappen doen;te voet;0,0760386491373129;1610;in aantal verplaatsingen per dag;werkdag (excl. feestdagen)
+71;winkelen, boodschappen doen;tram;0,00281199826466645;43;in aantal verplaatsingen per dag;werkdag (excl. feestdagen)
+71;winkelen, boodschappen doen;trein;0,00217949581012311;51;in aantal verplaatsingen per dag;werkdag (excl. feestdagen)
+71;zakelijke verplaatsing;anders;0,00471085215436277;65;in aantal verplaatsingen per dag;werkdag (excl. feestdagen)
+71;zakelijke verplaatsing;autobestuurder;0,0452059607071645;1023;in aantal verplaatsingen per dag;werkdag (excl. feestdagen)
+71;zakelijke verplaatsing;autopassagier +18;0,00440165614906654;98;in aantal verplaatsingen per dag;werkdag (excl. feestdagen)
+71;zakelijke verplaatsing;autopassagier -18;0,000534549683825166;9;in aantal verplaatsingen per dag;werkdag (excl. feestdagen)
+71;zakelijke verplaatsing;brom-/snorfiets of motor;0,000230292131681126;3;in aantal verplaatsingen per dag;werkdag (excl. feestdagen)
+71;zakelijke verplaatsing;elektrische fiets;0,00722702143555868;142;in aantal verplaatsingen per dag;werkdag (excl. feestdagen)
+71;zakelijke verplaatsing;elektrische step/monowheel/hoverboard;5,45946045028812e-05;2;in aantal verplaatsingen per dag;werkdag (excl. feestdagen)
+71;zakelijke verplaatsing;lijnbus;0,00046326551083492;9;in aantal verplaatsingen per dag;werkdag (excl. feestdagen)
+71;zakelijke verplaatsing;metro;0,00014021032644418;4;in aantal verplaatsingen per dag;werkdag (excl. feestdagen)
+71;zakelijke verplaatsing;niet-elektrische fiets;0,00522782469549187;101;in aantal verplaatsingen per dag;werkdag (excl. feestdagen)
+71;zakelijke verplaatsing;speed pedelec;0,00254709030854265;18;in aantal verplaatsingen per dag;werkdag (excl. feestdagen)
+71;zakelijke verplaatsing;taxi of vergelijkbaar;0,000143766467856214;2;in aantal verplaatsingen per dag;werkdag (excl. feestdagen)
+71;zakelijke verplaatsing;te voet;0,00305491452903446;81;in aantal verplaatsingen per dag;werkdag (excl. feestdagen)
+71;zakelijke verplaatsing;tram;0,000304351158666606;7;in aantal verplaatsingen per dag;werkdag (excl. feestdagen)
+71;zakelijke verplaatsing;trein;0,00133059035711984;40;in aantal verplaatsingen per dag;werkdag (excl. feestdagen)
+71;diensten (bv. dokter, bank);anders;4,5375976617727e-05;1;in aantal km per dag;weekend & feestdagen
+71;diensten (bv. dokter, bank);autobestuurder;0,0623858850883582;149;in aantal km per dag;weekend & feestdagen
+71;diensten (bv. dokter, bank);autopassagier +18;0,0523240640673405;62;in aantal km per dag;weekend & feestdagen
+71;diensten (bv. dokter, bank);autopassagier -18;0,00286337906574225;9;in aantal km per dag;weekend & feestdagen
+71;diensten (bv. dokter, bank);elektrische fiets;0,00270356175812524;29;in aantal km per dag;weekend & feestdagen
+71;diensten (bv. dokter, bank);elektrische step/monowheel/hoverboard;3,87397547245577e-05;2;in aantal km per dag;weekend & feestdagen
+71;diensten (bv. dokter, bank);lijnbus;0,0019050177506588;1;in aantal km per dag;weekend & feestdagen
+71;diensten (bv. dokter, bank);niet-elektrische fiets;0,00286202141534697;27;in aantal km per dag;weekend & feestdagen
+71;diensten (bv. dokter, bank);speed pedelec;0,00369624009767014;2;in aantal km per dag;weekend & feestdagen
+71;diensten (bv. dokter, bank);te voet;0,00259836560507174;71;in aantal km per dag;weekend & feestdagen
+71;diensten (bv. dokter, bank);tram;0,000107512923051826;1;in aantal km per dag;weekend & feestdagen
+71;diensten (bv. dokter, bank);trein;0,000686585230509893;1;in aantal km per dag;weekend & feestdagen
+71;geen antwoord;autobestuurder;0,000856442845526415;2;in aantal km per dag;weekend & feestdagen
+71;geen antwoord;elektrische step/monowheel/hoverboard;4,3446185725938e-05;1;in aantal km per dag;weekend & feestdagen
+71;geen antwoord;niet-elektrische fiets;0,000776736724369432;3;in aantal km per dag;weekend & feestdagen
+71;geen antwoord;te voet;0,000346997114046095;7;in aantal km per dag;weekend & feestdagen
+71;iemand bezoeken;anders;0,000667614598845526;3;in aantal km per dag;weekend & feestdagen
+71;iemand bezoeken;autobestuurder;0,879758410461536;1295;in aantal km per dag;weekend & feestdagen
+71;iemand bezoeken;autopassagier +18;0,481176119478877;571;in aantal km per dag;weekend & feestdagen
+71;iemand bezoeken;autopassagier -18;0,165814313155283;322;in aantal km per dag;weekend & feestdagen
+71;iemand bezoeken;brom-/snorfiets of motor;0,00645900285061028;10;in aantal km per dag;weekend & feestdagen
+71;iemand bezoeken;elektrische fiets;0,0477283745007146;163;in aantal km per dag;weekend & feestdagen
+71;iemand bezoeken;elektrische step/monowheel/hoverboard;0,000315531496632785;1;in aantal km per dag;weekend & feestdagen
+71;iemand bezoeken;lijnbus;0,0157048840890292;25;in aantal km per dag;weekend & feestdagen
+71;iemand bezoeken;niet-elektrische fiets;0,0348978022609749;256;in aantal km per dag;weekend & feestdagen
+71;iemand bezoeken;speed pedelec;0,00056868545689547;3;in aantal km per dag;weekend & feestdagen
+71;iemand bezoeken;taxi of vergelijkbaar;0,000468364572618898;3;in aantal km per dag;weekend & feestdagen
+71;iemand bezoeken;te voet;0,0101394523585542;298;in aantal km per dag;weekend & feestdagen
+71;iemand bezoeken;tram;0,00736857345061313;14;in aantal km per dag;weekend & feestdagen
+71;iemand bezoeken;trein;0,0695426266790062;33;in aantal km per dag;weekend & feestdagen
+71;iets anders;anders;0,0304539705400929;7;in aantal km per dag;weekend & feestdagen
+71;iets anders;autobestuurder;0,311395069062055;287;in aantal km per dag;weekend & feestdagen
+71;iets anders;autopassagier +18;0,26299207309704;153;in aantal km per dag;weekend & feestdagen
+71;iets anders;autopassagier -18;0,0681686276211173;71;in aantal km per dag;weekend & feestdagen
+71;iets anders;brom-/snorfiets of motor;0,000278066395950977;1;in aantal km per dag;weekend & feestdagen
+71;iets anders;elektrische fiets;0,00711575867237002;43;in aantal km per dag;weekend & feestdagen
+71;iets anders;lijnbus;0,0124322763099676;19;in aantal km per dag;weekend & feestdagen
+71;iets anders;niet-elektrische fiets;0,0137839014902991;59;in aantal km per dag;weekend & feestdagen
+71;iets anders;speed pedelec;0,00130654899171791;3;in aantal km per dag;weekend & feestdagen
+71;iets anders;te voet;0,00512416459505517;136;in aantal km per dag;weekend & feestdagen
+71;iets anders;tram;0,00112876796509809;8;in aantal km per dag;weekend & feestdagen
+71;iets anders;trein;0,12724230339592;39;in aantal km per dag;weekend & feestdagen
+71;iets/iemand wegbrengen/afhalen;anders;0,000271285399307734;2;in aantal km per dag;weekend & feestdagen
+71;iets/iemand wegbrengen/afhalen;autobestuurder;0,782496528130797;1259;in aantal km per dag;weekend & feestdagen
+71;iets/iemand wegbrengen/afhalen;autopassagier +18;0,123687256872606;204;in aantal km per dag;weekend & feestdagen
+71;iets/iemand wegbrengen/afhalen;autopassagier -18;0,052757380863979;103;in aantal km per dag;weekend & feestdagen
+71;iets/iemand wegbrengen/afhalen;brom-/snorfiets of motor;0,000921384207158405;3;in aantal km per dag;weekend & feestdagen
+71;iets/iemand wegbrengen/afhalen;elektrische fiets;0,00891767438604802;67;in aantal km per dag;weekend & feestdagen
+71;iets/iemand wegbrengen/afhalen;lijnbus;0,00954968908139875;10;in aantal km per dag;weekend & feestdagen
+71;iets/iemand wegbrengen/afhalen;niet-elektrische fiets;0,00716617420391852;59;in aantal km per dag;weekend & feestdagen
+71;iets/iemand wegbrengen/afhalen;speed pedelec;0,000123877817172795;3;in aantal km per dag;weekend & feestdagen
+71;iets/iemand wegbrengen/afhalen;te voet;0,00321053518590706;112;in aantal km per dag;weekend & feestdagen
+71;iets/iemand wegbrengen/afhalen;tram;0,00157270980566361;3;in aantal km per dag;weekend & feestdagen
+71;iets/iemand wegbrengen/afhalen;trein;0,0115022273879701;4;in aantal km per dag;weekend & feestdagen
+71;onderwijs volgen;anders;0,000316389579123269;3;in aantal km per dag;weekend & feestdagen
+71;onderwijs volgen;autobestuurder;0,0227138331238968;24;in aantal km per dag;weekend & feestdagen
+71;onderwijs volgen;autopassagier +18;0,00803153919538211;5;in aantal km per dag;weekend & feestdagen
+71;onderwijs volgen;autopassagier -18;0,00558200895389635;22;in aantal km per dag;weekend & feestdagen
+71;onderwijs volgen;elektrische fiets;0,00157339559227841;9;in aantal km per dag;weekend & feestdagen
+71;onderwijs volgen;elektrische step/monowheel/hoverboard;7,00077995231522e-05;2;in aantal km per dag;weekend & feestdagen
+71;onderwijs volgen;lijnbus;0,00426685021283306;8;in aantal km per dag;weekend & feestdagen
+71;onderwijs volgen;niet-elektrische fiets;0,00265290995192621;23;in aantal km per dag;weekend & feestdagen
+71;onderwijs volgen;speed pedelec;0,000373024013050571;2;in aantal km per dag;weekend & feestdagen
+71;onderwijs volgen;te voet;0,000455319260933618;9;in aantal km per dag;weekend & feestdagen
+71;onderwijs volgen;tram;0,00314472490676371;4;in aantal km per dag;weekend & feestdagen
+71;onderwijs volgen;trein;0,00710998666031706;5;in aantal km per dag;weekend & feestdagen
+71;ontspanning, sport, cultuur;anders;0,0237396007051131;21;in aantal km per dag;weekend & feestdagen
+71;ontspanning, sport, cultuur;autobestuurder;1,06490930409144;1326;in aantal km per dag;weekend & feestdagen
+71;ontspanning, sport, cultuur;autopassagier +18;0,611293687900039;690;in aantal km per dag;weekend & feestdagen
+71;ontspanning, sport, cultuur;autopassagier -18;0,499224131630106;654;in aantal km per dag;weekend & feestdagen
+71;ontspanning, sport, cultuur;brom-/snorfiets of motor;0,0122110058635044;14;in aantal km per dag;weekend & feestdagen
+71;ontspanning, sport, cultuur;elektrische fiets;0,0608537168919505;239;in aantal km per dag;weekend & feestdagen
+71;ontspanning, sport, cultuur;elektrische step/monowheel/hoverboard;0,0017889231171958;6;in aantal km per dag;weekend & feestdagen
+71;ontspanning, sport, cultuur;lijnbus;0,0350476376247869;61;in aantal km per dag;weekend & feestdagen
+71;ontspanning, sport, cultuur;metro;0,000548228541315514;2;in aantal km per dag;weekend & feestdagen
+71;ontspanning, sport, cultuur;niet-elektrische fiets;0,120001768361191;548;in aantal km per dag;weekend & feestdagen
+71;ontspanning, sport, cultuur;speed pedelec;0,00200749970444221;10;in aantal km per dag;weekend & feestdagen
+71;ontspanning, sport, cultuur;taxi of vergelijkbaar;0,00258404074848371;10;in aantal km per dag;weekend & feestdagen
+71;ontspanning, sport, cultuur;te voet;0,0359194290420536;629;in aantal km per dag;weekend & feestdagen
+71;ontspanning, sport, cultuur;tram;0,0173323492004572;42;in aantal km per dag;weekend & feestdagen
+71;ontspanning, sport, cultuur;trein;0,139508247805136;72;in aantal km per dag;weekend & feestdagen
+71;wandelen, rondrijden, joggen;anders;0,00378376699081859;13;in aantal km per dag;weekend & feestdagen
+71;wandelen, rondrijden, joggen;autobestuurder;0,198147982511622;236;in aantal km per dag;weekend & feestdagen
+71;wandelen, rondrijden, joggen;autopassagier +18;0,132916813152533;128;in aantal km per dag;weekend & feestdagen
+71;wandelen, rondrijden, joggen;autopassagier -18;0,0284787145146693;46;in aantal km per dag;weekend & feestdagen
+71;wandelen, rondrijden, joggen;brom-/snorfiets of motor;0,0026783495856862;1;in aantal km per dag;weekend & feestdagen
+71;wandelen, rondrijden, joggen;elektrische fiets;0,0410907702613707;77;in aantal km per dag;weekend & feestdagen
+71;wandelen, rondrijden, joggen;elektrische step/monowheel/hoverboard;0,000240177306646589;1;in aantal km per dag;weekend & feestdagen
+71;wandelen, rondrijden, joggen;lijnbus;0,00284411524326766;6;in aantal km per dag;weekend & feestdagen
+71;wandelen, rondrijden, joggen;metro;0,00104796009687539;3;in aantal km per dag;weekend & feestdagen
+71;wandelen, rondrijden, joggen;niet-elektrische fiets;0,103418403238285;125;in aantal km per dag;weekend & feestdagen
+71;wandelen, rondrijden, joggen;speed pedelec;0,00319439954682729;4;in aantal km per dag;weekend & feestdagen
+71;wandelen, rondrijden, joggen;te voet;0,1177021901372;831;in aantal km per dag;weekend & feestdagen
+71;wandelen, rondrijden, joggen;tram;0,00184712216249634;7;in aantal km per dag;weekend & feestdagen
+71;wandelen, rondrijden, joggen;trein;0,0284783788489145;7;in aantal km per dag;weekend & feestdagen
+71;werken;anders;0,000269355254749655;4;in aantal km per dag;weekend & feestdagen
+71;werken;autobestuurder;0,394731888902381;489;in aantal km per dag;weekend & feestdagen
+71;werken;autopassagier +18;0,0402363933956456;43;in aantal km per dag;weekend & feestdagen
+71;werken;autopassagier -18;0,00366297745121513;9;in aantal km per dag;weekend & feestdagen
+71;werken;brom-/snorfiets of motor;0,00537392653421592;5;in aantal km per dag;weekend & feestdagen
+71;werken;elektrische fiets;0,0136998203956331;65;in aantal km per dag;weekend & feestdagen
+71;werken;elektrische step/monowheel/hoverboard;0,00320385097924457;8;in aantal km per dag;weekend & feestdagen
+71;werken;lijnbus;0,00733547297124775;12;in aantal km per dag;weekend & feestdagen
+71;werken;metro;0,000262964749654913;1;in aantal km per dag;weekend & feestdagen
+71;werken;niet-elektrische fiets;0,0186232831623709;77;in aantal km per dag;weekend & feestdagen
+71;werken;speed pedelec;0,00427771696344167;4;in aantal km per dag;weekend & feestdagen
+71;werken;taxi of vergelijkbaar;0,000829888082569959;2;in aantal km per dag;weekend & feestdagen
+71;werken;te voet;0,00227798078933367;54;in aantal km per dag;weekend & feestdagen
+71;werken;tram;0,000723963162333208;2;in aantal km per dag;weekend & feestdagen
+71;werken;trein;0,0499106803523947;16;in aantal km per dag;weekend & feestdagen
+71;winkelen, boodschappen doen;anders;0,00363643259041285;9;in aantal km per dag;weekend & feestdagen
+71;winkelen, boodschappen doen;autobestuurder;0,683100305259083;2015;in aantal km per dag;weekend & feestdagen
+71;winkelen, boodschappen doen;autopassagier +18;0,251094130462698;481;in aantal km per dag;weekend & feestdagen
+71;winkelen, boodschappen doen;autopassagier -18;0,0724297515944426;228;in aantal km per dag;weekend & feestdagen
+71;winkelen, boodschappen doen;brom-/snorfiets of motor;0,00230309664085414;7;in aantal km per dag;weekend & feestdagen
+71;winkelen, boodschappen doen;elektrische fiets;0,0401692305058346;298;in aantal km per dag;weekend & feestdagen
+71;winkelen, boodschappen doen;elektrische step/monowheel/hoverboard;6,54366124566027e-05;2;in aantal km per dag;weekend & feestdagen
+71;winkelen, boodschappen doen;lijnbus;0,0153510591762894;45;in aantal km per dag;weekend & feestdagen
+71;winkelen, boodschappen doen;metro;0,000661795326674196;3;in aantal km per dag;weekend & feestdagen
+71;winkelen, boodschappen doen;niet-elektrische fiets;0,0259334339640496;296;in aantal km per dag;weekend & feestdagen
+71;winkelen, boodschappen doen;speed pedelec;0,00130358828033212;9;in aantal km per dag;weekend & feestdagen
+71;winkelen, boodschappen doen;te voet;0,025108445071792;663;in aantal km per dag;weekend & feestdagen
+71;winkelen, boodschappen doen;tram;0,00549314442605304;11;in aantal km per dag;weekend & feestdagen
+71;winkelen, boodschappen doen;trein;0,0310049817269816;23;in aantal km per dag;weekend & feestdagen
+71;zakelijke verplaatsing;anders;0,00224767865352407;7;in aantal km per dag;weekend & feestdagen
+71;zakelijke verplaatsing;autobestuurder;0,0687628938248241;97;in aantal km per dag;weekend & feestdagen
+71;zakelijke verplaatsing;autopassagier +18;0,014429607326276;22;in aantal km per dag;weekend & feestdagen
+71;zakelijke verplaatsing;autopassagier -18;0,000467228826452503;1;in aantal km per dag;weekend & feestdagen
+71;zakelijke verplaatsing;brom-/snorfiets of motor;0,00125092954013469;2;in aantal km per dag;weekend & feestdagen
+71;zakelijke verplaatsing;elektrische fiets;0,00191601291228092;12;in aantal km per dag;weekend & feestdagen
+71;zakelijke verplaatsing;elektrische step/monowheel/hoverboard;0,00016328732839754;2;in aantal km per dag;weekend & feestdagen
+71;zakelijke verplaatsing;niet-elektrische fiets;0,000868554407788514;8;in aantal km per dag;weekend & feestdagen
+71;zakelijke verplaatsing;te voet;0,000162244783121262;14;in aantal km per dag;weekend & feestdagen
+71;zakelijke verplaatsing;tram;0,000564755350784289;2;in aantal km per dag;weekend & feestdagen
+71;zakelijke verplaatsing;trein;0,00967502497444263;4;in aantal km per dag;weekend & feestdagen
+71;diensten (bv. dokter, bank);anders;0,00367847111334755;18;in aantal km per dag;werkdag (excl. feestdagen)
+71;diensten (bv. dokter, bank);autobestuurder;0,58926772356563;1481;in aantal km per dag;werkdag (excl. feestdagen)
+71;diensten (bv. dokter, bank);autopassagier +18;0,15262154919845;302;in aantal km per dag;werkdag (excl. feestdagen)
+71;diensten (bv. dokter, bank);autopassagier -18;0,0590042532968691;169;in aantal km per dag;werkdag (excl. feestdagen)
+71;diensten (bv. dokter, bank);brom-/snorfiets of motor;0,0054205924747438;11;in aantal km per dag;werkdag (excl. feestdagen)
+71;diensten (bv. dokter, bank);elektrische fiets;0,0316085861809763;216;in aantal km per dag;werkdag (excl. feestdagen)
+71;diensten (bv. dokter, bank);elektrische step/monowheel/hoverboard;0,000497819691303802;2;in aantal km per dag;werkdag (excl. feestdagen)
+71;diensten (bv. dokter, bank);lijnbus;0,018676973243191;53;in aantal km per dag;werkdag (excl. feestdagen)
+71;diensten (bv. dokter, bank);metro;0,000236506686054294;2;in aantal km per dag;werkdag (excl. feestdagen)
+71;diensten (bv. dokter, bank);niet-elektrische fiets;0,0249982661209826;225;in aantal km per dag;werkdag (excl. feestdagen)
+71;diensten (bv. dokter, bank);speed pedelec;0,00187207865703769;10;in aantal km per dag;werkdag (excl. feestdagen)
+71;diensten (bv. dokter, bank);taxi of vergelijkbaar;0,00311977142849793;2;in aantal km per dag;werkdag (excl. feestdagen)
+71;diensten (bv. dokter, bank);te voet;0,00779624087373188;300;in aantal km per dag;werkdag (excl. feestdagen)
+71;diensten (bv. dokter, bank);tram;0,00439773316006232;11;in aantal km per dag;werkdag (excl. feestdagen)
+71;diensten (bv. dokter, bank);trein;0,0167080941954708;18;in aantal km per dag;werkdag (excl. feestdagen)
+71;geen antwoord;autobestuurder;0,0165172329416656;18;in aantal km per dag;werkdag (excl. feestdagen)
+71;geen antwoord;autopassagier +18;0,00245394564911114;8;in aantal km per dag;werkdag (excl. feestdagen)
+71;geen antwoord;elektrische fiets;0,000942450955159577;3;in aantal km per dag;werkdag (excl. feestdagen)
+71;geen antwoord;lijnbus;0,000364373284602836;1;in aantal km per dag;werkdag (excl. feestdagen)
+71;geen antwoord;te voet;0,00064572616391057;8;in aantal km per dag;werkdag (excl. feestdagen)
+71;geen antwoord;trein;0,00015037973296524;1;in aantal km per dag;werkdag (excl. feestdagen)
+71;iemand bezoeken;anders;0,00545165599214665;15;in aantal km per dag;werkdag (excl. feestdagen)
+71;iemand bezoeken;autobestuurder;1,06171465591305;1803;in aantal km per dag;werkdag (excl. feestdagen)
+71;iemand bezoeken;autopassagier +18;0,199433222646848;370;in aantal km per dag;werkdag (excl. feestdagen)
+71;iemand bezoeken;autopassagier -18;0,127648204672397;302;in aantal km per dag;werkdag (excl. feestdagen)
+71;iemand bezoeken;brom-/snorfiets of motor;0,00701709577911909;13;in aantal km per dag;werkdag (excl. feestdagen)
+71;iemand bezoeken;elektrische fiets;0,0481550760497428;313;in aantal km per dag;werkdag (excl. feestdagen)
+71;iemand bezoeken;elektrische step/monowheel/hoverboard;0,000842204632463295;5;in aantal km per dag;werkdag (excl. feestdagen)
+71;iemand bezoeken;lijnbus;0,0315860181350742;52;in aantal km per dag;werkdag (excl. feestdagen)
+71;iemand bezoeken;metro;0,000328303918028193;3;in aantal km per dag;werkdag (excl. feestdagen)
+71;iemand bezoeken;niet-elektrische fiets;0,0455139809514446;393;in aantal km per dag;werkdag (excl. feestdagen)
+71;iemand bezoeken;speed pedelec;0,00249254692360815;11;in aantal km per dag;werkdag (excl. feestdagen)
+71;iemand bezoeken;taxi of vergelijkbaar;0,000119463576391852;1;in aantal km per dag;werkdag (excl. feestdagen)
+71;iemand bezoeken;te voet;0,0132722151805391;494;in aantal km per dag;werkdag (excl. feestdagen)
+71;iemand bezoeken;tram;0,010867834240174;28;in aantal km per dag;werkdag (excl. feestdagen)
+71;iemand bezoeken;trein;0,11952474426158;60;in aantal km per dag;werkdag (excl. feestdagen)
+71;iets anders;anders;0,0140071505751454;16;in aantal km per dag;werkdag (excl. feestdagen)
+71;iets anders;autobestuurder;0,635998520285801;805;in aantal km per dag;werkdag (excl. feestdagen)
+71;iets anders;autopassagier +18;0,156423839805139;220;in aantal km per dag;werkdag (excl. feestdagen)
+71;iets anders;autopassagier -18;0,0437849955684102;126;in aantal km per dag;werkdag (excl. feestdagen)
+71;iets anders;brom-/snorfiets of motor;7,30203858284185e-05;1;in aantal km per dag;werkdag (excl. feestdagen)
+71;iets anders;elektrische fiets;0,0244199462977601;117;in aantal km per dag;werkdag (excl. feestdagen)
+71;iets anders;elektrische step/monowheel/hoverboard;0,00102076824743799;3;in aantal km per dag;werkdag (excl. feestdagen)
+71;iets anders;lijnbus;0,0462968624127486;97;in aantal km per dag;werkdag (excl. feestdagen)
+71;iets anders;metro;0,0016819173289798;2;in aantal km per dag;werkdag (excl. feestdagen)
+71;iets anders;niet-elektrische fiets;0,0303912643967514;198;in aantal km per dag;werkdag (excl. feestdagen)
+71;iets anders;speed pedelec;0,00780452994727904;16;in aantal km per dag;werkdag (excl. feestdagen)
+71;iets anders;taxi of vergelijkbaar;0,00243692022721379;4;in aantal km per dag;werkdag (excl. feestdagen)
+71;iets anders;te voet;0,0124924820837175;384;in aantal km per dag;werkdag (excl. feestdagen)
+71;iets anders;tram;0,00398744788872715;15;in aantal km per dag;werkdag (excl. feestdagen)
+71;iets anders;trein;0,223397388873317;127;in aantal km per dag;werkdag (excl. feestdagen)
+71;iets/iemand wegbrengen/afhalen;anders;0,0291620542779981;19;in aantal km per dag;werkdag (excl. feestdagen)
+71;iets/iemand wegbrengen/afhalen;autobestuurder;1,49218423949898;4337;in aantal km per dag;werkdag (excl. feestdagen)
+71;iets/iemand wegbrengen/afhalen;autopassagier +18;0,128036117913298;336;in aantal km per dag;werkdag (excl. feestdagen)
+71;iets/iemand wegbrengen/afhalen;autopassagier -18;0,0457062475368542;193;in aantal km per dag;werkdag (excl. feestdagen)
+71;iets/iemand wegbrengen/afhalen;brom-/snorfiets of motor;0,00402872753376835;15;in aantal km per dag;werkdag (excl. feestdagen)
+71;iets/iemand wegbrengen/afhalen;elektrische fiets;0,0478605354848806;466;in aantal km per dag;werkdag (excl. feestdagen)
+71;iets/iemand wegbrengen/afhalen;elektrische step/monowheel/hoverboard;0,000453842936947338;2;in aantal km per dag;werkdag (excl. feestdagen)
+71;iets/iemand wegbrengen/afhalen;lijnbus;0,011889468552273;33;in aantal km per dag;werkdag (excl. feestdagen)
+71;iets/iemand wegbrengen/afhalen;niet-elektrische fiets;0,0335177220090479;420;in aantal km per dag;werkdag (excl. feestdagen)
+71;iets/iemand wegbrengen/afhalen;speed pedelec;0,00161484081341866;14;in aantal km per dag;werkdag (excl. feestdagen)
+71;iets/iemand wegbrengen/afhalen;taxi of vergelijkbaar;0,000550675234985569;3;in aantal km per dag;werkdag (excl. feestdagen)
+71;iets/iemand wegbrengen/afhalen;te voet;0,0182772393301226;694;in aantal km per dag;werkdag (excl. feestdagen)
+71;iets/iemand wegbrengen/afhalen;tram;0,00240013033248128;6;in aantal km per dag;werkdag (excl. feestdagen)
+71;iets/iemand wegbrengen/afhalen;trein;0,029669551782247;21;in aantal km per dag;werkdag (excl. feestdagen)
+71;onderwijs volgen;anders;0,0095943644582068;49;in aantal km per dag;werkdag (excl. feestdagen)
+71;onderwijs volgen;autobestuurder;0,186078995077734;233;in aantal km per dag;werkdag (excl. feestdagen)
+71;onderwijs volgen;autopassagier +18;0,0297266851934266;79;in aantal km per dag;werkdag (excl. feestdagen)
+71;onderwijs volgen;autopassagier -18;0,195250289247057;1076;in aantal km per dag;werkdag (excl. feestdagen)
+71;onderwijs volgen;brom-/snorfiets of motor;0,00918827223903878;35;in aantal km per dag;werkdag (excl. feestdagen)
+71;onderwijs volgen;elektrische fiets;0,0386360530739145;206;in aantal km per dag;werkdag (excl. feestdagen)
+71;onderwijs volgen;elektrische step/monowheel/hoverboard;0,00183604709002384;9;in aantal km per dag;werkdag (excl. feestdagen)
+71;onderwijs volgen;lijnbus;0,237131285582895;558;in aantal km per dag;werkdag (excl. feestdagen)
+71;onderwijs volgen;metro;0,00793448115412607;10;in aantal km per dag;werkdag (excl. feestdagen)
+71;onderwijs volgen;niet-elektrische fiets;0,180744417229102;1617;in aantal km per dag;werkdag (excl. feestdagen)
+71;onderwijs volgen;speed pedelec;0,00226718957990547;10;in aantal km per dag;werkdag (excl. feestdagen)
+71;onderwijs volgen;taxi of vergelijkbaar;0,000260281864976785;2;in aantal km per dag;werkdag (excl. feestdagen)
+71;onderwijs volgen;te voet;0,0246981183563832;806;in aantal km per dag;werkdag (excl. feestdagen)
+71;onderwijs volgen;tram;0,0192896699017512;62;in aantal km per dag;werkdag (excl. feestdagen)
+71;onderwijs volgen;trein;0,327268922768969;274;in aantal km per dag;werkdag (excl. feestdagen)
+71;ontspanning, sport, cultuur;anders;0,0153214984263525;42;in aantal km per dag;werkdag (excl. feestdagen)
+71;ontspanning, sport, cultuur;autobestuurder;0,997204745396879;2007;in aantal km per dag;werkdag (excl. feestdagen)
+71;ontspanning, sport, cultuur;autopassagier +18;0,412875030733988;655;in aantal km per dag;werkdag (excl. feestdagen)
+71;ontspanning, sport, cultuur;autopassagier -18;0,294155629958898;935;in aantal km per dag;werkdag (excl. feestdagen)
+71;ontspanning, sport, cultuur;brom-/snorfiets of motor;0,00467047145357845;17;in aantal km per dag;werkdag (excl. feestdagen)
+71;ontspanning, sport, cultuur;elektrische fiets;0,0657155418914817;421;in aantal km per dag;werkdag (excl. feestdagen)
+71;ontspanning, sport, cultuur;elektrische step/monowheel/hoverboard;0,000542199929987033;9;in aantal km per dag;werkdag (excl. feestdagen)
+71;ontspanning, sport, cultuur;lijnbus;0,0528635218651339;110;in aantal km per dag;werkdag (excl. feestdagen)
+71;ontspanning, sport, cultuur;metro;0,00159223630276906;8;in aantal km per dag;werkdag (excl. feestdagen)
+71;ontspanning, sport, cultuur;niet-elektrische fiets;0,119866126513181;911;in aantal km per dag;werkdag (excl. feestdagen)
+71;ontspanning, sport, cultuur;speed pedelec;0,00619620185626804;27;in aantal km per dag;werkdag (excl. feestdagen)
+71;ontspanning, sport, cultuur;taxi of vergelijkbaar;0,0240120771526519;10;in aantal km per dag;werkdag (excl. feestdagen)
+71;ontspanning, sport, cultuur;te voet;0,0368286890129025;965;in aantal km per dag;werkdag (excl. feestdagen)
+71;ontspanning, sport, cultuur;tram;0,0164594218792657;52;in aantal km per dag;werkdag (excl. feestdagen)
+71;ontspanning, sport, cultuur;trein;0,224522593097049;104;in aantal km per dag;werkdag (excl. feestdagen)
+71;wandelen, rondrijden, joggen;anders;0,00177711045852679;13;in aantal km per dag;werkdag (excl. feestdagen)
+71;wandelen, rondrijden, joggen;autobestuurder;0,116414166998747;242;in aantal km per dag;werkdag (excl. feestdagen)
+71;wandelen, rondrijden, joggen;autopassagier +18;0,0951725598860606;65;in aantal km per dag;werkdag (excl. feestdagen)
+71;wandelen, rondrijden, joggen;autopassagier -18;0,00439045071895972;20;in aantal km per dag;werkdag (excl. feestdagen)
+71;wandelen, rondrijden, joggen;brom-/snorfiets of motor;0,00557069382544861;3;in aantal km per dag;werkdag (excl. feestdagen)
+71;wandelen, rondrijden, joggen;elektrische fiets;0,0462359956957293;88;in aantal km per dag;werkdag (excl. feestdagen)
+71;wandelen, rondrijden, joggen;lijnbus;0,00484729355470783;9;in aantal km per dag;werkdag (excl. feestdagen)
+71;wandelen, rondrijden, joggen;metro;0,00146791967675994;2;in aantal km per dag;werkdag (excl. feestdagen)
+71;wandelen, rondrijden, joggen;niet-elektrische fiets;0,0786791482113532;154;in aantal km per dag;werkdag (excl. feestdagen)
+71;wandelen, rondrijden, joggen;speed pedelec;0,00143730309117413;2;in aantal km per dag;werkdag (excl. feestdagen)
+71;wandelen, rondrijden, joggen;te voet;0,150302573894033;1449;in aantal km per dag;werkdag (excl. feestdagen)
+71;wandelen, rondrijden, joggen;tram;0,0034983065043;11;in aantal km per dag;werkdag (excl. feestdagen)
+71;wandelen, rondrijden, joggen;trein;0,0214611733817752;8;in aantal km per dag;werkdag (excl. feestdagen)
+71;werken;anders;0,146475428494907;73;in aantal km per dag;werkdag (excl. feestdagen)
+71;werken;autobestuurder;5,48153313235812;6093;in aantal km per dag;werkdag (excl. feestdagen)
+71;werken;autopassagier +18;0,205899267011309;234;in aantal km per dag;werkdag (excl. feestdagen)
+71;werken;autopassagier -18;0,0131452100955285;15;in aantal km per dag;werkdag (excl. feestdagen)
+71;werken;brom-/snorfiets of motor;0,0561547326153093;60;in aantal km per dag;werkdag (excl. feestdagen)
+71;werken;elektrische fiets;0,306072620801003;1145;in aantal km per dag;werkdag (excl. feestdagen)
+71;werken;elektrische step/monowheel/hoverboard;0,0084666483510018;33;in aantal km per dag;werkdag (excl. feestdagen)
+71;werken;lijnbus;0,12910141834651;132;in aantal km per dag;werkdag (excl. feestdagen)
+71;werken;metro;0,00444769106186054;13;in aantal km per dag;werkdag (excl. feestdagen)
+71;werken;niet-elektrische fiets;0,236702179387873;983;in aantal km per dag;werkdag (excl. feestdagen)
+71;werken;speed pedelec;0,13801547619529;194;in aantal km per dag;werkdag (excl. feestdagen)
+71;werken;taxi of vergelijkbaar;0,00449127246314469;2;in aantal km per dag;werkdag (excl. feestdagen)
+71;werken;te voet;0,0143019441290677;479;in aantal km per dag;werkdag (excl. feestdagen)
+71;werken;tram;0,0144315436570727;29;in aantal km per dag;werkdag (excl. feestdagen)
+71;werken;trein;0,873554028923405;578;in aantal km per dag;werkdag (excl. feestdagen)
+71;winkelen, boodschappen doen;anders;0,00398076686141716;34;in aantal km per dag;werkdag (excl. feestdagen)
+71;winkelen, boodschappen doen;autobestuurder;1,19099094552497;4435;in aantal km per dag;werkdag (excl. feestdagen)
+71;winkelen, boodschappen doen;autopassagier +18;0,261199072764209;700;in aantal km per dag;werkdag (excl. feestdagen)
+71;winkelen, boodschappen doen;autopassagier -18;0,0803150473538666;316;in aantal km per dag;werkdag (excl. feestdagen)
+71;winkelen, boodschappen doen;brom-/snorfiets of motor;0,00210879871476973;12;in aantal km per dag;werkdag (excl. feestdagen)
+71;winkelen, boodschappen doen;elektrische fiets;0,0785961410977302;742;in aantal km per dag;werkdag (excl. feestdagen)
+71;winkelen, boodschappen doen;elektrische step/monowheel/hoverboard;0,00041046650203706;7;in aantal km per dag;werkdag (excl. feestdagen)
+71;winkelen, boodschappen doen;lijnbus;0,0442547766236876;105;in aantal km per dag;werkdag (excl. feestdagen)
+71;winkelen, boodschappen doen;metro;0,000328911506774167;2;in aantal km per dag;werkdag (excl. feestdagen)
+71;winkelen, boodschappen doen;niet-elektrische fiets;0,0618135819920499;794;in aantal km per dag;werkdag (excl. feestdagen)
+71;winkelen, boodschappen doen;speed pedelec;0,00831694390218848;39;in aantal km per dag;werkdag (excl. feestdagen)
+71;winkelen, boodschappen doen;taxi of vergelijkbaar;0,000738028987783913;4;in aantal km per dag;werkdag (excl. feestdagen)
+71;winkelen, boodschappen doen;te voet;0,0503306492221664;1610;in aantal km per dag;werkdag (excl. feestdagen)
+71;winkelen, boodschappen doen;tram;0,0106209036516556;43;in aantal km per dag;werkdag (excl. feestdagen)
+71;winkelen, boodschappen doen;trein;0,0684757087763027;51;in aantal km per dag;werkdag (excl. feestdagen)
+71;zakelijke verplaatsing;anders;0,117345881513164;65;in aantal km per dag;werkdag (excl. feestdagen)
+71;zakelijke verplaatsing;autobestuurder;0,859190769212474;1023;in aantal km per dag;werkdag (excl. feestdagen)
+71;zakelijke verplaatsing;autopassagier +18;0,0743492029563517;98;in aantal km per dag;werkdag (excl. feestdagen)
+71;zakelijke verplaatsing;autopassagier -18;0,00662534542059648;9;in aantal km per dag;werkdag (excl. feestdagen)
+71;zakelijke verplaatsing;brom-/snorfiets of motor;0,0015862538306312;3;in aantal km per dag;werkdag (excl. feestdagen)
+71;zakelijke verplaatsing;elektrische fiets;0,0237272599267307;142;in aantal km per dag;werkdag (excl. feestdagen)
+71;zakelijke verplaatsing;elektrische step/monowheel/hoverboard;0,000175959234701134;2;in aantal km per dag;werkdag (excl. feestdagen)
+71;zakelijke verplaatsing;lijnbus;0,00864362748926883;9;in aantal km per dag;werkdag (excl. feestdagen)
+71;zakelijke verplaatsing;metro;0,00224104545773205;4;in aantal km per dag;werkdag (excl. feestdagen)
+71;zakelijke verplaatsing;niet-elektrische fiets;0,01279244826506;101;in aantal km per dag;werkdag (excl. feestdagen)
+71;zakelijke verplaatsing;speed pedelec;0,0100293998542778;18;in aantal km per dag;werkdag (excl. feestdagen)
+71;zakelijke verplaatsing;taxi of vergelijkbaar;0,00423975769572092;2;in aantal km per dag;werkdag (excl. feestdagen)
+71;zakelijke verplaatsing;te voet;0,00185992459332652;81;in aantal km per dag;werkdag (excl. feestdagen)
+71;zakelijke verplaatsing;tram;0,00145122155037311;7;in aantal km per dag;werkdag (excl. feestdagen)
+71;zakelijke verplaatsing;trein;0,0459051540256465;40;in aantal km per dag;werkdag (excl. feestdagen)

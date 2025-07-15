@@ -5,8 +5,7 @@ library(tidyverse)
 library(shinyWidgets)
 library(DT)
 
-root = "B:/50 - OVG/OVG7/analyses/results/MoMo"
-data = read.csv2(paste0(root, "/OVG7_ModalSplit.csv"))
+data = read.csv2("./data/OVG7_ModalSplit.csv")
 
 motieven = distinct(data, motief11) %>% pull()
 hoofdmodus = distinct(data, hfdvm2) %>% pull()
