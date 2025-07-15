@@ -3,6 +3,7 @@ library(shiny)
 library(bslib)
 library(tidyverse)
 library(shinyWidgets)
+library(DT)
 
 root = "B:/50 - OVG/OVG7/analyses/results/MoMo"
 data = read.csv2(paste0(root, "/OVG7_ModalSplit.csv"))
@@ -32,13 +33,13 @@ ui <- page_sidebar(
     title = "Filters",
     position = "right",
     # Input: Slider for the number of bins ----
-    sliderInput(
-      inputId = "bins",
-      label = "Number of bins:",
-      min = 1,
-      max = 50,
-      value = 30
-    ),
+    # sliderInput(
+    #   inputId = "bins",
+    #   label = "Number of bins:",
+    #   min = 1,
+    #   max = 50,
+    #   value = 30
+    # ),
     
     radioButtons(
       inputId = "indicatorSelect", 
@@ -90,10 +91,10 @@ ui <- page_sidebar(
     )
   ),
   navset_card_tab(
-    nav_panel("Motief",
+    nav_panel("Grafiek",
               plotOutput(outputId = "modaleSplit")),
-    nav_panel("Afstand",
-              plotOutput(outputId = "distPlot"))
+    nav_panel("Tabel",
+              dataTableOutput(outputId = "table") )
   ),
   
 )
@@ -121,16 +122,19 @@ server <- function(input, output) {
     
   })
 
-  output$distPlot <- renderPlot({
-    
-    x    <- faithful$waiting
-    bins <- seq(min(x), max(x), length.out = input$bins + 1)
-    
-    hist(x, breaks = bins, col = "#007bc2", border = "white",
-         xlab = "Waiting time to next eruption (in mins)",
-         main = "Histogram of waiting times")
-    
-  })
+  # output$distPlot <- renderPlot({
+  #   
+  #   x    <- faithful$waiting
+  #   bins <- seq(min(x), max(x), length.out = input$bins + 1)
+  #   
+  #   hist(x, breaks = bins, col = "#007bc2", border = "white",
+  #        xlab = "Waiting time to next eruption (in mins)",
+  #        main = "Histogram of waiting times")
+  #   
+  # })
+  
+  output$table <- 
+    renderDataTable({datatable(graph_data)}) 
   
   output$aantalVerplaatsingen = renderText({
     graph_data = data %>% 
