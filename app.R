@@ -117,7 +117,8 @@ server <- function(input, output) {
       geom_segment(aes(x = 0, xend = percentage, y = hfdvm2, yend = hfdvm2), color = "grey70") +
       geom_point(color = "steelblue", size = 4) +
       labs(x = "Percentage", y = "Hoofdmodus") +
-      theme_minimal()
+      theme_minimal() + 
+      theme(axis.text=element_text(size=14, face = 'bold'))
     
   })
 
