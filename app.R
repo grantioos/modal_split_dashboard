@@ -179,8 +179,7 @@ server <- function(input, output) {
                   showlegend = FALSE,
                   hover = "none") %>%
       layout(
-        title = "Modal Split of Trips",
-        xaxis = list(title = "Percentage of trips"),
+        xaxis = list(title = "Aandeel in verplaatsingen"),
         yaxis = list(title = "", categoryorder = "array", categoryarray = rev(graph_data2$hfdvm2)),
         margin = list(l = 100),
         annotations = annotations
