@@ -154,6 +154,21 @@ server <- function(input, output) {
       mutate(hfdvm2 = factor(hfdvm2, levels = rev(hfdvm2))) %>% 
       as.data.frame()
     
+    annotations = lapply(1:nrow(graph_data2), function(i) {
+      list(
+        x = graph_data2$percentage[i],
+        y = graph_data2$hfdvm2[i],
+        text = paste0(graph_data2$percentage[i], "%"),
+        xanchor = "left",
+        yanchor = "middle",
+        xshift = 10, 
+        showarrow = FALSE,
+        bgcolor = "steelblue",       # background color
+        borderpad = 2,
+        font = list(size = 12, color = "white")
+      )
+    })
+    
     plot_ly(data = graph_data2) %>%
       add_segments(x = 0, xend = ~percentage,
                    y = ~hfdvm2, yend = ~hfdvm2,
@@ -161,13 +176,14 @@ server <- function(input, output) {
                    showlegend = FALSE) %>%
       add_markers(x = ~percentage, y = ~hfdvm2,
                   marker = list(color = 'steelblue', size = 10),
-                  text = ~paste0(percentage, "%"),
-                  hoverinfo = "text") %>%
+                  showlegend = FALSE,
+                  hover = "none") %>%
       layout(
         title = "Modal Split of Trips",
         xaxis = list(title = "Percentage of trips"),
         yaxis = list(title = "", categoryorder = "array", categoryarray = rev(graph_data2$hfdvm2)),
-        margin = list(l = 100)
+        margin = list(l = 100),
+        annotations = annotations
       )
     
   })
