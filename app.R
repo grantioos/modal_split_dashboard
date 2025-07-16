@@ -4,6 +4,7 @@ library(bslib)
 library(tidyverse)
 library(shinyWidgets)
 library(DT)
+library(plotly)
 
 data = read.csv2("./data/OVG7_ModalSplit.csv")
 
@@ -12,13 +13,30 @@ hoofdmodus = distinct(data, hfdvm2) %>% pull()
 meettype = distinct(data, MeetType) %>% pull()
 DagType = distinct(data, DagType) %>% pull()
 
-graph_data = data %>% 
-  filter(DagType == "alle dagen" & MeetType == "in aantal verplaatsingen per dag") %>% 
-  mutate(totaal = sum(waarde_modal_split)) %>% 
-  group_by(hfdvm2) %>% 
-  summarise(percentage = round(sum(waarde_modal_split) / mean(totaal) * 100, digits = 1)) %>% 
-  arrange(desc(percentage)) %>%
-  mutate(hfdvm2 = factor(hfdvm2, levels = rev(hfdvm2))) 
+# graph_data = data %>% 
+#   filter(DagType == "alle dagen" & MeetType == "in aantal verplaatsingen per dag") %>% 
+#   mutate(totaal = sum(waarde_modal_split)) %>% 
+#   group_by(hfdvm2) %>% 
+#   summarise(percentage = round(sum(waarde_modal_split) / mean(totaal) * 100, digits = 1)) %>% 
+#   arrange(desc(percentage)) %>%
+#   mutate(hfdvm2 = factor(hfdvm2, levels = rev(hfdvm2))) %>% 
+#   as.data.frame()
+
+# plot_ly(data = graph_data) %>%
+#   add_segments(x = 0, xend = ~percentage,
+#                y = ~hfdvm2, yend = ~hfdvm2,
+#                line = list(color = 'gray'),
+#                showlegend = FALSE) %>%
+#   add_markers(x = ~percentage, y = ~hfdvm2,
+#               marker = list(color = 'steelblue', size = 10),
+#               text = ~paste0(percentage, "%"),
+#               hoverinfo = "text") %>%
+#   layout(
+#     title = "Modal Split of Trips",
+#     xaxis = list(title = "Percentage of trips"),
+#     yaxis = list(title = "", categoryorder = "array", categoryarray = rev(graph_data$hfdvm2)),
+#     margin = list(l = 100)
+#   )
 
 
 # Define UI for app that draws a histogram ----
@@ -90,10 +108,12 @@ ui <- page_sidebar(
     )
   ),
   navset_card_tab(
+    # nav_panel("Grafiek",
+    #           plotOutput(outputId = "modaleSplit")),
     nav_panel("Grafiek",
-              plotOutput(outputId = "modaleSplit")),
+              plotlyOutput(outputId = "plotly")),
     nav_panel("Tabel",
-              dataTableOutput(outputId = "table") )
+              dataTableOutput(outputId = "table"))
   ),
   
 )
@@ -101,37 +121,57 @@ ui <- page_sidebar(
 # Define server logic required to draw a histogram
 server <- function(input, output) {
   
-  output$modaleSplit = renderPlot({
+  # output$modaleSplit = renderPlot({
+  # 
+  # 
+  #   graph_data = data %>%
+  #     filter(DagType == input$dagtypeSelect & MeetType == input$indicatorSelect) %>%
+  #     mutate(totaal = sum(waarde_modal_split)) %>%
+  #     group_by(hfdvm2) %>%
+  #     summarise(percentage = round(sum(waarde_modal_split) / mean(totaal) * 100, digits = 1)) %>%
+  #     filter(hfdvm2 %in% input$hoofdmodusSelect) %>%
+  #     arrange(desc(percentage)) %>%
+  #     mutate(hfdvm2 = factor(hfdvm2, levels = rev(hfdvm2)))
+  # 
+  #   ggplot(graph_data, aes(x = percentage, y = hfdvm2)) +
+  #     geom_segment(aes(x = 0, xend = percentage, y = hfdvm2, yend = hfdvm2), color = "grey70") +
+  #     geom_point(color = "steelblue", size = 4) +
+  #     labs(x = "Percentage", y = "Hoofdmodus") +
+  #     theme_minimal() +
+  #     theme(axis.text=element_text(size=14, face = 'bold'))
+  # 
+  # })
+  
+  output$plotly = renderPlotly({
     
-    
-    graph_data = data %>% 
+    graph_data2 = data %>% 
       filter(DagType == input$dagtypeSelect & MeetType == input$indicatorSelect) %>% 
       mutate(totaal = sum(waarde_modal_split)) %>% 
       group_by(hfdvm2) %>% 
       summarise(percentage = round(sum(waarde_modal_split) / mean(totaal) * 100, digits = 1)) %>% 
       filter(hfdvm2 %in% input$hoofdmodusSelect) %>% 
       arrange(desc(percentage)) %>%
-      mutate(hfdvm2 = factor(hfdvm2, levels = rev(hfdvm2))) 
+      mutate(hfdvm2 = factor(hfdvm2, levels = rev(hfdvm2))) %>% 
+      as.data.frame()
     
-    ggplot(graph_data, aes(x = percentage, y = hfdvm2)) +
-      geom_segment(aes(x = 0, xend = percentage, y = hfdvm2, yend = hfdvm2), color = "grey70") +
-      geom_point(color = "steelblue", size = 4) +
-      labs(x = "Percentage", y = "Hoofdmodus") +
-      theme_minimal() + 
-      theme(axis.text=element_text(size=14, face = 'bold'))
+    plot_ly(data = graph_data2) %>%
+      add_segments(x = 0, xend = ~percentage,
+                   y = ~hfdvm2, yend = ~hfdvm2,
+                   line = list(color = 'gray'),
+                   showlegend = FALSE) %>%
+      add_markers(x = ~percentage, y = ~hfdvm2,
+                  marker = list(color = 'steelblue', size = 10),
+                  text = ~paste0(percentage, "%"),
+                  hoverinfo = "text") %>%
+      layout(
+        title = "Modal Split of Trips",
+        xaxis = list(title = "Percentage of trips"),
+        yaxis = list(title = "", categoryorder = "array", categoryarray = rev(graph_data2$hfdvm2)),
+        margin = list(l = 100)
+      )
     
   })
 
-  # output$distPlot <- renderPlot({
-  #   
-  #   x    <- faithful$waiting
-  #   bins <- seq(min(x), max(x), length.out = input$bins + 1)
-  #   
-  #   hist(x, breaks = bins, col = "#007bc2", border = "white",
-  #        xlab = "Waiting time to next eruption (in mins)",
-  #        main = "Histogram of waiting times")
-  #   
-  # })
   
   output$table <- 
     renderDataTable({datatable(graph_data)}) 
